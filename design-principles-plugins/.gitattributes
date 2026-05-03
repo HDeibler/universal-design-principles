@@ -1,0 +1,27 @@
+# Normalize line endings for everything text-like
+* text=auto eol=lf
+
+# Markdown / prose
+*.md text eol=lf
+*.markdown text eol=lf
+*.txt text eol=lf
+
+# JSON / config
+*.json text eol=lf
+*.jsonc text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.toml text eol=lf
+
+# Shell / scripts
+*.sh text eol=lf
+
+# Let GitHub language stats focus on the actual content (skill files), not boilerplate
+.gitignore linguist-vendored=true
+.gitattributes linguist-vendored=true
+*.json linguist-detectable=false
+LICENSE linguist-documentation
+*.md linguist-documentation=false
+
+# Treat skill files as the primary source of truth for the repo
+**/SKILL.md linguist-detectable=true

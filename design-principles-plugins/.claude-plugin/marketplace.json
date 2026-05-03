@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json.schemastore.org/claude-plugin-marketplace.json",
+  "name": "design-principles",
+  "displayName": "Universal Design Principles",
+  "description": "A working library of 42 framework-agnostic design principles drawn from Universal Principles of Design (Lidwell, Holden, Butler, 2003). Five composable plugins covering perception, cognition, interaction, aesthetics, and process — each principle ships as a router skill plus context-specific sub-skills with deep-dive references.",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Hunter D",
+    "email": "hunterd107@gmail.com",
+    "url": "https://github.com/hunterd107"
+  },
+  "homepage": "https://github.com/hunterd107/design-principles",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hunterd107/design-principles.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "ux",
+    "ui",
+    "design-principles",
+    "design-system",
+    "universal-principles-of-design",
+    "lidwell",
+    "claude-plugins",
+    "skills",
+    "agentic-design"
+  ],
+  "plugins": [
+    {
+      "name": "perception-and-hierarchy-principles",
+      "source": "./perception-and-hierarchy-principles",
+      "displayName": "Perception & Hierarchy",
+      "description": "Visual perception, hierarchy, layout, and the structuring of attention. Covers Hierarchy, Proximity, Signal-to-Noise Ratio, Color, Alignment, Legibility, Readability, Gestalt Similarity, Closure, and Figure-Ground Relationship.",
+      "version": "1.0.0",
+      "category": "design",
+      "tags": ["gestalt", "hierarchy", "typography", "layout", "color", "accessibility"],
+      "skillCount": 34
+    },
+    {
+      "name": "cognition-and-learnability-principles",
+      "source": "./cognition-and-learnability-principles",
+      "displayName": "Cognition & Learnability",
+      "description": "Mental models, complexity reduction, memory, and learnability. Covers Hick's Law, Wayfinding, Progressive Disclosure, 80/20 Rule, Chunking, Mental Model, Recognition Over Recall, Consistency, Mimicry, and Iconic Representation.",
+      "version": "1.0.0",
+      "category": "design",
+      "tags": ["cognition", "mental-models", "memory", "learnability", "iconography", "consistency"],
+      "skillCount": 33
+    },
+    {
+      "name": "interaction-and-control-principles",
+      "source": "./interaction-and-control-principles",
+      "displayName": "Interaction & Control",
+      "description": "Affordance, feedback, errors, and user control. Covers Fitts's Law, Affordance, Forgiveness, Feedback Loop, Errors, Constraint, Mapping, Expectation Effect, and Control.",
+      "version": "1.0.0",
+      "category": "design",
+      "tags": ["interaction", "affordance", "feedback", "errors", "controls", "fitts"],
+      "skillCount": 29
+    },
+    {
+      "name": "aesthetics-and-emotion-principles",
+      "source": "./aesthetics-and-emotion-principles",
+      "displayName": "Aesthetics & Emotion",
+      "description": "Beauty, perceived quality, brand personality, and emotional response. Covers Aesthetic-Usability Effect, Archetypes, Form Follows Function, Wabi-Sabi, Exposure Effect, and Immersion.",
+      "version": "1.0.0",
+      "category": "design",
+      "tags": ["aesthetics", "emotion", "brand", "archetypes", "flow", "wabi-sabi"],
+      "skillCount": 17
+    },
+    {
+      "name": "process-and-robustness-principles",
+      "source": "./process-and-robustness-principles",
+      "displayName": "Process & Robustness",
+      "description": "Iteration, accessibility, reliability, and design process. Covers Accessibility, Iteration, Factor of Safety, Prototyping, Weakest Link, Scaling Fallacy, and Ockham's Razor.",
+      "version": "1.0.0",
+      "category": "design",
+      "tags": ["accessibility", "wcag", "iteration", "prototyping", "robustness", "reliability"],
+      "skillCount": 24
+    }
+  ]
+}
