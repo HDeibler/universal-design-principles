@@ -1,6 +1,6 @@
 ---
 name: snr-densification
-description: Use this skill when a design has *too much* whitespace — when the SNR pendulum has swung from cluttered all the way to sparse, sterile, or "empty-feeling," and you need to add signal density without adding noise. Trigger when reviewing a UI that "feels thin," "feels under-built," or where users complain "I'm scrolling forever to get to anything." Also trigger when designing power-user surfaces (admin panels, IDEs, data tools) that need higher density than consumer defaults. Sub-aspect of `signal-to-noise-ratio`; read that first if you haven't already.
+description: 'Use this skill when a design has *too much* whitespace — when the SNR pendulum has swung from cluttered all the way to sparse, sterile, or "empty-feeling," and you need to add signal density without adding noise. Trigger when reviewing a UI that "feels thin," "feels under-built," or where users complain "I''m scrolling forever to get to anything." Also trigger when designing power-user surfaces (admin panels, IDEs, data tools) that need higher density than consumer defaults. Sub-aspect of `signal-to-noise-ratio`; read that first if you haven''t already.'
 ---
 
 # Densification: adding signal without adding noise

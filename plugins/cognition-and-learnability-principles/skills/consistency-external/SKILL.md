@@ -1,6 +1,6 @@
 ---
 name: consistency-external
-description: Apply external consistency — honoring conventions from outside your product (platform conventions, category conventions, established interaction patterns) so users can transfer their learning into your product. Use when designing for a specific platform (iOS, Android, web), entering an established product category (calendar, email, file manager), choosing icons or gestures, or deciding when to follow vs. lead a convention. External consistency reduces the learning cost for new users; deviating from it requires both a strong reason and explicit framing.
+description: 'Apply external consistency — honoring conventions from outside your product (platform conventions, category conventions, established interaction patterns) so users can transfer their learning into your product. Use when designing for a specific platform (iOS, Android, web), entering an established product category (calendar, email, file manager), choosing icons or gestures, or deciding when to follow vs. lead a convention. External consistency reduces the learning cost for new users; deviating from it requires both a strong reason and explicit framing.'
 ---
 
 # Consistency — external

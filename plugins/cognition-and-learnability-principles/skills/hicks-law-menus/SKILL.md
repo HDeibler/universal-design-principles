@@ -1,6 +1,6 @@
 ---
 name: hicks-law-menus
-description: Use this skill when designing menus, dropdowns, navigation, command palettes, or any interface where the user picks from a list. Trigger when the menu has more than ~7 items, when navigation feels overwhelming, when designing a cmd-K palette, when picking what goes in a "More" overflow, or when arguing about whether to add another menu item. Sub-aspect of `hicks-law`; read that first if you haven't already.
+description: 'Use this skill when designing menus, dropdowns, navigation, command palettes, or any interface where the user picks from a list. Trigger when the menu has more than ~7 items, when navigation feels overwhelming, when designing a cmd-K palette, when picking what goes in a "More" overflow, or when arguing about whether to add another menu item. Sub-aspect of `hicks-law`; read that first if you haven''t already.'
 ---
 
 # Hick's Law in menus and navigation

@@ -1,6 +1,6 @@
 ---
 name: readability
-description: Apply the principle of Readability — the ease with which sustained prose can be read, determined by line length, line height, paragraph rhythm, font choice for prose, and visual breathing room. Use when designing long-form content (articles, documentation, books, transcripts), writing email or report layouts, evaluating whether users can comfortably read paragraphs of text. Distinct from legibility (per-character clarity); readability is about the experience of reading sustained prose without fatigue. The two principles compose: readability requires legibility and adds prose-specific constraints.
+description: 'Apply the principle of Readability — the ease with which sustained prose can be read, determined by line length, line height, paragraph rhythm, font choice for prose, and visual breathing room. Use when designing long-form content (articles, documentation, books, transcripts), writing email or report layouts, evaluating whether users can comfortably read paragraphs of text. Distinct from legibility (per-character clarity); readability is about the experience of reading sustained prose without fatigue. The two principles compose: readability requires legibility and adds prose-specific constraints.'
 ---
 
 # Readability

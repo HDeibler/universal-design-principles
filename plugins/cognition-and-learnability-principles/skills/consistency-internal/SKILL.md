@@ -1,6 +1,6 @@
 ---
 name: consistency-internal
-description: Apply internal consistency — making your product coherent with itself across all surfaces, components, and flows. Use when designing or auditing component libraries, defining design tokens, settling cross-team naming conventions, planning a design-system rollout, integrating acquired or legacy code, or evaluating whether two features should share or diverge in their interaction model. Internal consistency is enforced through design systems, shared vocabularies, and process discipline; it erodes through hand-off losses, sprint-driven shortcuts, and team boundaries that don't coordinate.
+description: 'Apply internal consistency — making your product coherent with itself across all surfaces, components, and flows. Use when designing or auditing component libraries, defining design tokens, settling cross-team naming conventions, planning a design-system rollout, integrating acquired or legacy code, or evaluating whether two features should share or diverge in their interaction model. Internal consistency is enforced through design systems, shared vocabularies, and process discipline; it erodes through hand-off losses, sprint-driven shortcuts, and team boundaries that don''t coordinate.'
 ---
 
 # Consistency — internal

@@ -1,6 +1,6 @@
 ---
 name: feedback-loop-states-and-latency
-description: Use this skill when designing the visible states an interactive element passes through (idle / pending / success / error) and matching feedback timing to the user's perceptual thresholds. Trigger when designing button states, form-submit flows, file-upload progress, loading screens, or any interaction whose response time is variable. Sub-aspect of `feedback-loop`; read that first.
+description: 'Use this skill when designing the visible states an interactive element passes through (idle / pending / success / error) and matching feedback timing to the user''s perceptual thresholds. Trigger when designing button states, form-submit flows, file-upload progress, loading screens, or any interaction whose response time is variable. Sub-aspect of `feedback-loop`; read that first.'
 ---
 
 # Feedback states and latency thresholds

@@ -1,6 +1,6 @@
 ---
 name: accessibility-operable
-description: Use this skill when the question is whether users can *operate* a UI — keyboard, switch device, voice, screen-reader gestures — not just by mouse or touch. Trigger when designing keyboard navigation, focus management for modals/menus/popovers, drag-and-drop with alternatives, motion-heavy interactions, or any flow that asks the user to do something. Covers WCAG Principle 2 (Operable). Sub-aspect of `accessibility`; read that first if you haven't already.
+description: 'Use this skill when the question is whether users can *operate* a UI — keyboard, switch device, voice, screen-reader gestures — not just by mouse or touch. Trigger when designing keyboard navigation, focus management for modals/menus/popovers, drag-and-drop with alternatives, motion-heavy interactions, or any flow that asks the user to do something. Covers WCAG Principle 2 (Operable). Sub-aspect of `accessibility`; read that first if you haven''t already.'
 ---
 
 # Accessibility — Operable

@@ -1,6 +1,6 @@
 ---
 name: errors
-description: Use this skill whenever a design must accommodate the inevitability of human error — typos, wrong-button presses, misread instructions, mistimed actions, misunderstandings of system state. Trigger when designing form validation, input handling, destructive flows, complex multi-step procedures, alert systems, or any UI where users can do the wrong thing. Trigger when post-incident analyses reveal patterns of "human error" — most are design errors in disguise. Errors is one of the foundational principles in 'Universal Principles of Design' (Lidwell, Holden, Butler 2003), grounded in Norman's and Reason's foundational human-error research.
+description: 'Use this skill whenever a design must accommodate the inevitability of human error — typos, wrong-button presses, misread instructions, mistimed actions, misunderstandings of system state. Trigger when designing form validation, input handling, destructive flows, complex multi-step procedures, alert systems, or any UI where users can do the wrong thing. Trigger when post-incident analyses reveal patterns of "human error" — most are design errors in disguise. Errors is one of the foundational principles in ''Universal Principles of Design'' (Lidwell, Holden, Butler 2003), grounded in Norman''s and Reason''s foundational human-error research.'
 ---
 
 # Errors

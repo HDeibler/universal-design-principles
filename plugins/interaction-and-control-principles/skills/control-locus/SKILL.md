@@ -1,6 +1,6 @@
 ---
 name: control-locus
-description: Apply locus of control — the design choice between making the system appear to act on the user's behalf (external locus) and making the user appear to direct the system (internal locus). Use when designing AI-assisted features, autocorrect/autocomplete behaviors, recommendation surfaces, automated workflows, and any feature where the system could either do things automatically or wait for user instruction. Internal locus produces higher engagement, learning, and satisfaction; external locus produces higher convenience but lower agency. The skill is choosing deliberately and explaining the choice in the UI.
+description: 'Apply locus of control — the design choice between making the system appear to act on the user''s behalf (external locus) and making the user appear to direct the system (internal locus). Use when designing AI-assisted features, autocorrect/autocomplete behaviors, recommendation surfaces, automated workflows, and any feature where the system could either do things automatically or wait for user instruction. Internal locus produces higher engagement, learning, and satisfaction; external locus produces higher convenience but lower agency. The skill is choosing deliberately and explaining the choice in the UI.'
 ---
 
 # Control — locus

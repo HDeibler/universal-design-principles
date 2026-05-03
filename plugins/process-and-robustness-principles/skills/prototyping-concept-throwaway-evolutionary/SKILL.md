@@ -1,6 +1,6 @@
 ---
 name: prototyping-concept-throwaway-evolutionary
-description: Use this skill when picking which kind of prototype to build for the question at hand — concept (exploratory), throwaway (testing one specific aspect), or evolutionary (incremental toward final). Trigger when planning a research method, when scoping a technical spike, or when deciding whether an MVP should evolve or be thrown away. Sub-aspect of `prototyping`; read that first.
+description: 'Use this skill when picking which kind of prototype to build for the question at hand — concept (exploratory), throwaway (testing one specific aspect), or evolutionary (incremental toward final). Trigger when planning a research method, when scoping a technical spike, or when deciding whether an MVP should evolve or be thrown away. Sub-aspect of `prototyping`; read that first.'
 ---
 
 # The three prototype kinds

@@ -1,6 +1,6 @@
 ---
 name: fitts-law-pointer-acceleration
-description: Use this skill when the question involves cursor speed, pointer acceleration curves, or interaction with input devices that vary in precision (mouse, trackpad, stylus, touchscreen, eye-tracking). Trigger when designing for varied input devices, building drag interactions, designing scrubbers / sliders / handles, or analyzing why a UI feels "fiddly." Sub-aspect of `fitts-law`; read that first if you haven't already.
+description: 'Use this skill when the question involves cursor speed, pointer acceleration curves, or interaction with input devices that vary in precision (mouse, trackpad, stylus, touchscreen, eye-tracking). Trigger when designing for varied input devices, building drag interactions, designing scrubbers / sliders / handles, or analyzing why a UI feels "fiddly." Sub-aspect of `fitts-law`; read that first if you haven''t already.'
 ---
 
 # Fitts's Law and pointer acceleration

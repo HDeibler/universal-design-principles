@@ -1,6 +1,6 @@
 ---
 name: mimicry-behavioral
-description: Apply behavioral mimicry — making an interface element behave like a familiar physical object so the user's physical-world intuitions transfer to the digital interaction. Use when designing gestures, animations, transitions, drag-and-drop, scroll behaviors, or any interaction where physical-world analogies could clarify the experience. Behavioral mimicry is more durable than visual skeuomorphism — physics-mimicking behaviors age well — but it requires deliberate calibration: too much physical fidelity slows the interaction down without communicating anything new.
+description: 'Apply behavioral mimicry — making an interface element behave like a familiar physical object so the user''s physical-world intuitions transfer to the digital interaction. Use when designing gestures, animations, transitions, drag-and-drop, scroll behaviors, or any interaction where physical-world analogies could clarify the experience. Behavioral mimicry is more durable than visual skeuomorphism — physics-mimicking behaviors age well — but it requires deliberate calibration: too much physical fidelity slows the interaction down without communicating anything new.'
 ---
 
 # Mimicry — behavioral

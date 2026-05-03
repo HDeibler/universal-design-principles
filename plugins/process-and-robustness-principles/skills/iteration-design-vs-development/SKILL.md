@@ -1,6 +1,6 @@
 ---
 name: iteration-design-vs-development
-description: Use this skill when reviewing where in the project lifecycle iteration is happening — desirable iteration during design vs. costly rework during development. Trigger when a project keeps slipping due to "design changes during build," when scoping how much design work to do before engineering begins, or when retrospectives reveal that issues were caught too late. Sub-aspect of `iteration`; read that first.
+description: 'Use this skill when reviewing where in the project lifecycle iteration is happening — desirable iteration during design vs. costly rework during development. Trigger when a project keeps slipping due to "design changes during build," when scoping how much design work to do before engineering begins, or when retrospectives reveal that issues were caught too late. Sub-aspect of `iteration`; read that first.'
 ---
 
 # Design iteration vs. development iteration

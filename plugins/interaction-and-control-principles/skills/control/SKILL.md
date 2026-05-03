@@ -1,6 +1,6 @@
 ---
 name: control
-description: Apply the principle of Control — the level of autonomy a system gives the user, and how that level should be matched to the user's expertise and the task's stakes. Use when designing for novice vs. expert audiences, choosing between fully automated and manually controlled behaviors, deciding what to expose vs. abstract away, or building products that span experience levels (a tool a beginner will use once and an expert will use thousands of times). Too much control overwhelms novices; too little frustrates experts. The skill is calibrating control to the user, the task, and the moment.
+description: 'Apply the principle of Control — the level of autonomy a system gives the user, and how that level should be matched to the user''s expertise and the task''s stakes. Use when designing for novice vs. expert audiences, choosing between fully automated and manually controlled behaviors, deciding what to expose vs. abstract away, or building products that span experience levels (a tool a beginner will use once and an expert will use thousands of times). Too much control overwhelms novices; too little frustrates experts. The skill is calibrating control to the user, the task, and the moment.'
 ---
 
 # Control

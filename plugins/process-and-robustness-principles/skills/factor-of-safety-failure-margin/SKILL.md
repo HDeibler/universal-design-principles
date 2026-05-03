@@ -1,6 +1,6 @@
 ---
 name: factor-of-safety-failure-margin
-description: Use this skill when planning capacity, redundancy, graceful degradation, or recovery for systems that must keep working under stress — performance budgets, dependency failure handling, retry logic, error budgets, infrastructure capacity. Trigger when scoping infrastructure, designing error-handling architecture, planning for failure modes, or reviewing reliability incidents. Sub-aspect of `factor-of-safety`; read that first.
+description: 'Use this skill when planning capacity, redundancy, graceful degradation, or recovery for systems that must keep working under stress — performance budgets, dependency failure handling, retry logic, error budgets, infrastructure capacity. Trigger when scoping infrastructure, designing error-handling architecture, planning for failure modes, or reviewing reliability incidents. Sub-aspect of `factor-of-safety`; read that first.'
 ---
 
 # Failure margin: capacity, dependency, and graceful degradation

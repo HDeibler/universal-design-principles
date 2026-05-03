@@ -1,6 +1,6 @@
 ---
 name: hierarchy-color-and-tone
-description: Use this skill when constructing visual hierarchy through color and tone (value, contrast, saturation) — picking which elements get full-color emphasis and which recede into greys, building a tone ladder, and deciding when color should *be* the hierarchy versus when it should *support* a size/weight hierarchy. Trigger when picking the primary color, building a neutral palette, designing a status badge system, or fixing a UI where color is "too loud" or "too flat." Sub-aspect of the broader `hierarchy` principle; read that first if you haven't already.
+description: 'Use this skill when constructing visual hierarchy through color and tone (value, contrast, saturation) — picking which elements get full-color emphasis and which recede into greys, building a tone ladder, and deciding when color should *be* the hierarchy versus when it should *support* a size/weight hierarchy. Trigger when picking the primary color, building a neutral palette, designing a status badge system, or fixing a UI where color is "too loud" or "too flat." Sub-aspect of the broader `hierarchy` principle; read that first if you haven''t already.'
 ---
 
 # Hierarchy through color and tone

@@ -1,6 +1,6 @@
 ---
 name: weakest-link-treatment
-description: Apply treatment strategies for identified weak links — fix, eliminate, buffer, replicate, or communicate. Use when you've identified a weakest link and are deciding what to do about it. Each treatment has different costs, benefits, and contexts where it's right. The choice depends on whether the weak link is necessary, whether it's fixable, what alternatives exist, and what timeline the fix can realistically follow.
+description: 'Apply treatment strategies for identified weak links — fix, eliminate, buffer, replicate, or communicate. Use when you''ve identified a weakest link and are deciding what to do about it. Each treatment has different costs, benefits, and contexts where it''s right. The choice depends on whether the weak link is necessary, whether it''s fixable, what alternatives exist, and what timeline the fix can realistically follow.'
 ---
 
 # Weakest Link — treatment

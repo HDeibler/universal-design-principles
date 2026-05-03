@@ -1,6 +1,6 @@
 ---
 name: fitts-law
-description: Use this skill whenever the question involves how easy it is to *hit* an interactive target — buttons, links, form controls, drag handles, scrollbars, mobile tap targets, anything the user must move a pointer or finger to. Trigger when sizing buttons, designing toolbars, picking a hit-area for icon buttons, designing for touch screens, debugging "users keep mis-clicking," or arguing about button density vs. usability. Trigger when the user mentions touch targets, target size, "fat fingers," pointer accuracy, edge gestures, or accessibility around motor impairments. Routes to sub-aspect skills for touch targets, screen edges, and pointer acceleration.
+description: 'Use this skill whenever the question involves how easy it is to *hit* an interactive target — buttons, links, form controls, drag handles, scrollbars, mobile tap targets, anything the user must move a pointer or finger to. Trigger when sizing buttons, designing toolbars, picking a hit-area for icon buttons, designing for touch screens, debugging "users keep mis-clicking," or arguing about button density vs. usability. Trigger when the user mentions touch targets, target size, "fat fingers," pointer accuracy, edge gestures, or accessibility around motor impairments. Routes to sub-aspect skills for touch targets, screen edges, and pointer acceleration.'
 ---
 
 # Fitts's Law

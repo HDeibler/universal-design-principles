@@ -1,6 +1,6 @@
 ---
 name: constraint-psychological
-description: Use this skill when designing constraints that work through perception, expectation, and learned convention — symbols, conventions, mappings. Trigger when designing iconography, picking control conventions, or designing for behavioral predictability. Sub-aspect of `constraint`; read that first.
+description: 'Use this skill when designing constraints that work through perception, expectation, and learned convention — symbols, conventions, mappings. Trigger when designing iconography, picking control conventions, or designing for behavioral predictability. Sub-aspect of `constraint`; read that first.'
 ---
 
 # Psychological constraints

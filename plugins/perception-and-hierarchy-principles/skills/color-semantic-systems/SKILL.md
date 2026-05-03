@@ -1,6 +1,6 @@
 ---
 name: color-semantic-systems
-description: Use this skill when building or auditing a color system that encodes meaning — status colors (success / warning / error), category colors (department, product line, user segment), brand-role colors (primary, secondary, tertiary). Trigger when designing status badges, picking chart palettes, building a design-system color spec, or fixing inconsistent color use across surfaces. Sub-aspect of `color`; read that first.
+description: 'Use this skill when building or auditing a color system that encodes meaning — status colors (success / warning / error), category colors (department, product line, user segment), brand-role colors (primary, secondary, tertiary). Trigger when designing status badges, picking chart palettes, building a design-system color spec, or fixing inconsistent color use across surfaces. Sub-aspect of `color`; read that first.'
 ---
 
 # Building semantic color systems

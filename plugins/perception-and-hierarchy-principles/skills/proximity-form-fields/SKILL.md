@@ -1,6 +1,6 @@
 ---
 name: proximity-form-fields
-description: Use this skill when laying out a form, fixing a confusing form, or building a form layout convention for a design system. Forms are where proximity failures are most visible: ambiguous label-input pairing, sections that bleed into each other, help text that orphans from its field. Trigger when designing sign-up, sign-in, settings, profile, billing, checkout, multi-step, or any structured-input surface. Sub-aspect of `proximity`; read that first if you haven't already.
+description: 'Use this skill when laying out a form, fixing a confusing form, or building a form layout convention for a design system. Forms are where proximity failures are most visible: ambiguous label-input pairing, sections that bleed into each other, help text that orphans from its field. Trigger when designing sign-up, sign-in, settings, profile, billing, checkout, multi-step, or any structured-input surface. Sub-aspect of `proximity`; read that first if you haven''t already.'
 ---
 
 # Proximity in form layout

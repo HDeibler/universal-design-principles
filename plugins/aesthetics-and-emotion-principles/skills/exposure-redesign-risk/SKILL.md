@@ -1,6 +1,6 @@
 ---
 name: exposure-redesign-risk
-description: Manage the risks of redesigns when users have built up exposure-based preference for the existing design. Use when planning a major redesign, evaluating user backlash to changes, deciding between incremental and radical change, or recovering from a redesign that generated complaints. Users like what they're used to; redesigns must be planned to manage the transition cost. Even objectively-better redesigns trigger resistance disproportionate to the actual change.
+description: 'Manage the risks of redesigns when users have built up exposure-based preference for the existing design. Use when planning a major redesign, evaluating user backlash to changes, deciding between incremental and radical change, or recovering from a redesign that generated complaints. Users like what they''re used to; redesigns must be planned to manage the transition cost. Even objectively-better redesigns trigger resistance disproportionate to the actual change.'
 ---
 
 # Exposure Effect — redesign risk

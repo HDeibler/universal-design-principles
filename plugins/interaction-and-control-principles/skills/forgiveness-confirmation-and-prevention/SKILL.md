@@ -1,6 +1,6 @@
 ---
 name: forgiveness-confirmation-and-prevention
-description: Use this skill when the user must commit to an irreversible or high-stakes action and reversibility isn't enough — confirmation dialogs, type-to-confirm patterns, password re-entry, two-step authentication for destructive actions, and structural prevention that makes the wrong action impossible. Trigger when designing destructive flows for genuinely-irreversible commitments, when reviewing confirmation fatigue, or when picking between a single confirm dialog and a multi-step verification. Sub-aspect of `forgiveness`; read that first.
+description: 'Use this skill when the user must commit to an irreversible or high-stakes action and reversibility isn''t enough — confirmation dialogs, type-to-confirm patterns, password re-entry, two-step authentication for destructive actions, and structural prevention that makes the wrong action impossible. Trigger when designing destructive flows for genuinely-irreversible commitments, when reviewing confirmation fatigue, or when picking between a single confirm dialog and a multi-step verification. Sub-aspect of `forgiveness`; read that first.'
 ---
 
 # Forgiveness through confirmation and prevention

@@ -1,6 +1,6 @@
 ---
 name: wabi-sabi-restraint
-description: Apply wabi-sabi restraint — the discipline of leaving things out, of resisting decoration, of letting empty space and silence do design work. Use when designing reading-focused interfaces, paring back accumulated clutter, choosing between decoration and absence, or evaluating whether each element earns its place. Restraint is the often-overlooked half of wabi-sabi: the imperfection side gets attention, but the principle is equally about modesty and the elegance of what's not there.
+description: 'Apply wabi-sabi restraint — the discipline of leaving things out, of resisting decoration, of letting empty space and silence do design work. Use when designing reading-focused interfaces, paring back accumulated clutter, choosing between decoration and absence, or evaluating whether each element earns its place. Restraint is the often-overlooked half of wabi-sabi: the imperfection side gets attention, but the principle is equally about modesty and the elegance of what''s not there.'
 ---
 
 # Wabi-Sabi — restraint

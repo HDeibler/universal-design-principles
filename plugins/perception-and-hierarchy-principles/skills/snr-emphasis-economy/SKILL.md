@@ -1,6 +1,6 @@
 ---
 name: snr-emphasis-economy
-description: Use this skill when deciding *how* to spend emphasis — color, weight, size, motion — across a design so that each instance lands. Trigger when picking the primary action among many CTAs, when status-color usage has multiplied across the app and lost meaning, when the brand color appears in too many places, or when a designer asks "should this also be highlighted?" and the answer is almost always no. Sub-aspect of `signal-to-noise-ratio`; read that first if you haven't already.
+description: 'Use this skill when deciding *how* to spend emphasis — color, weight, size, motion — across a design so that each instance lands. Trigger when picking the primary action among many CTAs, when status-color usage has multiplied across the app and lost meaning, when the brand color appears in too many places, or when a designer asks "should this also be highlighted?" and the answer is almost always no. Sub-aspect of `signal-to-noise-ratio`; read that first if you haven''t already.'
 ---
 
 # Emphasis economy

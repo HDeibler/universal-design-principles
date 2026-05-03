@@ -1,6 +1,6 @@
 ---
 name: fitts-law-touch-targets
-description: Use this skill when designing for touch — phones, tablets, kiosks, in-car displays, smart-TV remotes, anything where the input is a finger or thumb rather than a precise pointer. Trigger when sizing buttons for mobile, debugging "users keep mistapping," designing a mobile bottom-nav, picking icon sizes for a phone toolbar, or reviewing whether a desktop UI is touch-friendly. Sub-aspect of `fitts-law`; read that first if you haven't already.
+description: 'Use this skill when designing for touch — phones, tablets, kiosks, in-car displays, smart-TV remotes, anything where the input is a finger or thumb rather than a precise pointer. Trigger when sizing buttons for mobile, debugging "users keep mistapping," designing a mobile bottom-nav, picking icon sizes for a phone toolbar, or reviewing whether a desktop UI is touch-friendly. Sub-aspect of `fitts-law`; read that first if you haven''t already.'
 ---
 
 # Fitts's Law for touch targets

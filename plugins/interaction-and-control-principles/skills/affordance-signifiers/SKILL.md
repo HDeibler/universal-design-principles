@@ -1,6 +1,6 @@
 ---
 name: affordance-signifiers
-description: Use this skill when the design has interactive capability but users aren't *seeing* it — when the affordance is technically present but the signifier (the visible cue that tells users "you can do this") is missing or weak. Trigger when reviewing flat-design UIs where everything looks the same, when designing custom controls, when stakeholders ask "should this be more obvious?", or when picking signifier strength for primary vs. secondary actions. Sub-aspect of `affordance`; read that first.
+description: 'Use this skill when the design has interactive capability but users aren''t *seeing* it — when the affordance is technically present but the signifier (the visible cue that tells users "you can do this") is missing or weak. Trigger when reviewing flat-design UIs where everything looks the same, when designing custom controls, when stakeholders ask "should this be more obvious?", or when picking signifier strength for primary vs. secondary actions. Sub-aspect of `affordance`; read that first.'
 ---
 
 # Signifiers: making affordance perceivable

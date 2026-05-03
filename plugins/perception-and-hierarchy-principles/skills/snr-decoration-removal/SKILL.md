@@ -1,6 +1,6 @@
 ---
 name: snr-decoration-removal
-description: Use this skill when the question is *what to delete* — running a structured audit of a UI to remove decorative elements that don't earn their pixels. Trigger when reviewing an existing UI for noise reduction, when a stakeholder pushback says "this feels too busy" but you don't know what specifically to cut, or when polishing a design pre-ship. This is the operational counterpart to `signal-to-noise-ratio`; it gives you a checklist and a procedure rather than a principle.
+description: 'Use this skill when the question is *what to delete* — running a structured audit of a UI to remove decorative elements that don''t earn their pixels. Trigger when reviewing an existing UI for noise reduction, when a stakeholder pushback says "this feels too busy" but you don''t know what specifically to cut, or when polishing a design pre-ship. This is the operational counterpart to `signal-to-noise-ratio`; it gives you a checklist and a procedure rather than a principle.'
 ---
 
 # Decoration removal: an audit procedure

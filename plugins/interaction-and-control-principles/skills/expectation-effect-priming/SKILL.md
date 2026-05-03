@@ -1,6 +1,6 @@
 ---
 name: expectation-effect-priming
-description: Apply expectation priming — deliberately shaping the prior context (brand, marketing, price, social proof, recommendations) that users bring to a product before they ever touch it. Use when planning a launch, choosing positioning copy, deciding pricing tier, designing the marketing surface, or framing a feature for first encounter. Pre-encounter priming is often more powerful than in-product polish, because it sets the lens through which the in-product experience will be interpreted. The skill is calibrating priming honestly enough to outlast the first session.
+description: 'Apply expectation priming — deliberately shaping the prior context (brand, marketing, price, social proof, recommendations) that users bring to a product before they ever touch it. Use when planning a launch, choosing positioning copy, deciding pricing tier, designing the marketing surface, or framing a feature for first encounter. Pre-encounter priming is often more powerful than in-product polish, because it sets the lens through which the in-product experience will be interpreted. The skill is calibrating priming honestly enough to outlast the first session.'
 ---
 
 # Expectation Effect — priming

@@ -1,6 +1,6 @@
 ---
 name: recognition-pickers-and-palettes
-description: Use this skill when designing pickers, dropdowns, comboboxes, autocompletes, command palettes, or any UI that lets the user select from a known set. Trigger when picking between a free-text field and a select; when designing a command palette; when reviewing why users keep typing wrong values into autocomplete inputs. Sub-aspect of `recognition-over-recall`; read that first.
+description: 'Use this skill when designing pickers, dropdowns, comboboxes, autocompletes, command palettes, or any UI that lets the user select from a known set. Trigger when picking between a free-text field and a select; when designing a command palette; when reviewing why users keep typing wrong values into autocomplete inputs. Sub-aspect of `recognition-over-recall`; read that first.'
 ---
 
 # Pickers, palettes, and recognition-based selection

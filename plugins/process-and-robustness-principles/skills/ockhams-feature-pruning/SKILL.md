@@ -1,6 +1,6 @@
 ---
 name: ockhams-feature-pruning
-description: Prune accumulated complexity from a product — features, options, settings, code paths that no longer earn their place. Use when auditing a mature product, reducing surface area, simplifying complex workflows, or evaluating whether to remove low-usage features. Pruning is harder than adding because users (often a small but vocal minority) resist removal even when usage data justifies it. The skill is identifying what to prune, deciding how, and managing the transition.
+description: 'Prune accumulated complexity from a product — features, options, settings, code paths that no longer earn their place. Use when auditing a mature product, reducing surface area, simplifying complex workflows, or evaluating whether to remove low-usage features. Pruning is harder than adding because users (often a small but vocal minority) resist removal even when usage data justifies it. The skill is identifying what to prune, deciding how, and managing the transition.'
 ---
 
 # Ockham's Razor — feature pruning

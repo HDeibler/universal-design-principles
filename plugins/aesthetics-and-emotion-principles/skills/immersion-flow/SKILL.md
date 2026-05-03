@@ -1,6 +1,6 @@
 ---
 name: immersion-flow
-description: Design for flow specifically — calibrate challenge to skill, provide immediate feedback, set clear goals, foreground the activity. Use when designing tools for skilled work (writing, drawing, programming, music), games, learning experiences, or any context where sustained engagement is the goal. Flow is the most-researched aspect of immersion; the conditions for it are specific and the design moves that support it are well-documented.
+description: 'Design for flow specifically — calibrate challenge to skill, provide immediate feedback, set clear goals, foreground the activity. Use when designing tools for skilled work (writing, drawing, programming, music), games, learning experiences, or any context where sustained engagement is the goal. Flow is the most-researched aspect of immersion; the conditions for it are specific and the design moves that support it are well-documented.'
 ---
 
 # Immersion — flow

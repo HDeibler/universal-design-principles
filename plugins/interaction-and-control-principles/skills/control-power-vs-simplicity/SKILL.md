@@ -1,6 +1,6 @@
 ---
 name: control-power-vs-simplicity
-description: Apply layered control — designing interfaces that serve novice and expert users in the same product without forcing one audience into the other's interface. Use when building products that span experience levels (most consumer software, most professional tools used occasionally), choosing between "simple by default" and "powerful by default," or deciding what to expose vs. hide behind progressive disclosure. The skill is creating a default surface that suffices for novices and a depth surface that doesn't intimidate them but is fully present for experts.
+description: 'Apply layered control — designing interfaces that serve novice and expert users in the same product without forcing one audience into the other''s interface. Use when building products that span experience levels (most consumer software, most professional tools used occasionally), choosing between "simple by default" and "powerful by default," or deciding what to expose vs. hide behind progressive disclosure. The skill is creating a default surface that suffices for novices and a depth surface that doesn''t intimidate them but is fully present for experts.'
 ---
 
 # Control — power vs. simplicity

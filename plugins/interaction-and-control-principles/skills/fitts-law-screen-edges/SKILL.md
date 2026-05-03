@@ -1,6 +1,6 @@
 ---
 name: fitts-law-screen-edges
-description: Use this skill when designing for the edges and corners of the screen — where the cursor cannot overshoot, making them effectively infinite-sized targets along one axis. Trigger when designing global navigation, system menus, sticky headers, fixed sidebars, full-bleed CTAs, or anywhere you can put the most-frequent or hardest-to-find actions. Trigger when reviewing an app that has wasteful margins on every side and asks the user to aim for tiny targets in the middle. Sub-aspect of `fitts-law`; read that first if you haven't already.
+description: 'Use this skill when designing for the edges and corners of the screen — where the cursor cannot overshoot, making them effectively infinite-sized targets along one axis. Trigger when designing global navigation, system menus, sticky headers, fixed sidebars, full-bleed CTAs, or anywhere you can put the most-frequent or hardest-to-find actions. Trigger when reviewing an app that has wasteful margins on every side and asks the user to aim for tiny targets in the middle. Sub-aspect of `fitts-law`; read that first if you haven''t already.'
 ---
 
 # Fitts's Law and the screen edge

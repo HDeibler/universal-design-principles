@@ -1,6 +1,6 @@
 ---
 name: mapping
-description: Apply the principle of Mapping — designing the relationship between controls and their effects so the connection between input and output is immediately obvious. Use when designing controls (knobs, switches, buttons, sliders, gestures), arranging them in space relative to what they affect, or diagnosing user confusion about which control does what. Strong mappings exploit physical analogies (up = more), spatial correspondence (the left burner control is on the left), and cultural conventions (red = stop). Poor mappings force the user to memorize arbitrary pairings, generating slips and errors that compound over time.
+description: 'Apply the principle of Mapping — designing the relationship between controls and their effects so the connection between input and output is immediately obvious. Use when designing controls (knobs, switches, buttons, sliders, gestures), arranging them in space relative to what they affect, or diagnosing user confusion about which control does what. Strong mappings exploit physical analogies (up = more), spatial correspondence (the left burner control is on the left), and cultural conventions (red = stop). Poor mappings force the user to memorize arbitrary pairings, generating slips and errors that compound over time.'
 ---
 
 # Mapping

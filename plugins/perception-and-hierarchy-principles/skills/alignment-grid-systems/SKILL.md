@@ -1,6 +1,6 @@
 ---
 name: alignment-grid-systems
-description: Use this skill when designing or evaluating a grid system — picking column counts, gutter widths, breakpoints, baseline grids, or modular grids. Trigger when designing a new layout system, when an existing layout feels disorderly, when picking responsive breakpoints, or when reviewing a design that "doesn't sit on a grid." Sub-aspect of `alignment`; read that first.
+description: 'Use this skill when designing or evaluating a grid system — picking column counts, gutter widths, breakpoints, baseline grids, or modular grids. Trigger when designing a new layout system, when an existing layout feels disorderly, when picking responsive breakpoints, or when reviewing a design that "doesn''t sit on a grid." Sub-aspect of `alignment`; read that first.'
 ---
 
 # Grid systems

@@ -1,6 +1,6 @@
 ---
 name: forgiveness
-description: Use this skill whenever a design lets users do something they might regret — delete, send, publish, charge, transfer, archive, overwrite, irrecoverably commit. Trigger when designing destructive actions, undo systems, confirmation dialogs, soft-delete recovery, draft-saving, transaction reversal, "are you sure?" patterns, or any flow where a wrong move costs the user time, data, money, or trust. Trigger when the user mentions "users keep deleting things," "we get support tickets about lost data," "is this dangerous?", or when reviewing destructive UI. Forgiveness is one of the central principles in 'Universal Principles of Design' (Lidwell, Holden, Butler 2003) and one of Nielsen's 10 heuristics ("user control and freedom").
+description: 'Use this skill whenever a design lets users do something they might regret — delete, send, publish, charge, transfer, archive, overwrite, irrecoverably commit. Trigger when designing destructive actions, undo systems, confirmation dialogs, soft-delete recovery, draft-saving, transaction reversal, "are you sure?" patterns, or any flow where a wrong move costs the user time, data, money, or trust. Trigger when the user mentions "users keep deleting things," "we get support tickets about lost data," "is this dangerous?", or when reviewing destructive UI. Forgiveness is one of the central principles in ''Universal Principles of Design'' (Lidwell, Holden, Butler 2003) and one of Nielsen''s 10 heuristics ("user control and freedom").'
 ---
 
 # Forgiveness

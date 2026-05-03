@@ -1,6 +1,6 @@
 ---
 name: process-router
-description: Use this skill whenever the question is *how* to design well over time or *how* to make a design that doesn't break — accessibility, prototyping cadence, MVP scoping, edge cases, performance budget, error handling at scale, design system governance, or any architectural-design question. Trigger on accessibility questions, "is this ready to ship," "what about the edge case where," design reviews, MVP scoping, "we have too many opinions on this." Framework-agnostic. Routes the model to the right process or robustness principle in this plugin.
+description: 'Use this skill whenever the question is *how* to design well over time or *how* to make a design that doesn''t break — accessibility, prototyping cadence, MVP scoping, edge cases, performance budget, error handling at scale, design system governance, or any architectural-design question. Trigger on accessibility questions, "is this ready to ship," "what about the edge case where," design reviews, MVP scoping, "we have too many opinions on this." Framework-agnostic. Routes the model to the right process or robustness principle in this plugin.'
 ---
 
 # Process & robustness — router

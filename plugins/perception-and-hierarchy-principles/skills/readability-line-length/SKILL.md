@@ -1,6 +1,6 @@
 ---
 name: readability-line-length
-description: Set line length (measure) for prose — capping the maximum width of body text so lines stay in the 45–75 character range that supports comfortable sustained reading. Use when designing article layouts, documentation, email templates, dashboard copy, or any container that holds paragraphs of prose. Line length is the most fundamental readability decision because it directly affects the reader's eye movement; lines that are too long or too short both cost reading comfort.
+description: 'Set line length (measure) for prose — capping the maximum width of body text so lines stay in the 45–75 character range that supports comfortable sustained reading. Use when designing article layouts, documentation, email templates, dashboard copy, or any container that holds paragraphs of prose. Line length is the most fundamental readability decision because it directly affects the reader''s eye movement; lines that are too long or too short both cost reading comfort.'
 ---
 
 # Readability — line length (measure)

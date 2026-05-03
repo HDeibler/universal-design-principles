@@ -1,6 +1,6 @@
 ---
 name: mimicry
-description: Apply the principle of Mimicry — borrowing the form, behavior, or visual language of something familiar to make a new design recognizable. Use when introducing a novel feature whose function would be opaque without an analogy, choosing between metaphor and convention, designing for a category your users already know, or evaluating whether a "skeuomorphic" element helps or hurts. Mimicry comes in surface (visual resemblance), behavioral (acts like the source), and functional (does what the source does) forms. Used well, it accelerates learning; used badly, it carries forward limitations the new medium doesn't share.
+description: 'Apply the principle of Mimicry — borrowing the form, behavior, or visual language of something familiar to make a new design recognizable. Use when introducing a novel feature whose function would be opaque without an analogy, choosing between metaphor and convention, designing for a category your users already know, or evaluating whether a "skeuomorphic" element helps or hurts. Mimicry comes in surface (visual resemblance), behavioral (acts like the source), and functional (does what the source does) forms. Used well, it accelerates learning; used badly, it carries forward limitations the new medium doesn''t share.'
 ---
 
 # Mimicry

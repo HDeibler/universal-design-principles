@@ -1,6 +1,6 @@
 ---
 name: prototyping
-description: Use this skill whenever the design has unknowns that need testing — when a sketch could resolve a debate, when assumptions about user behavior could be checked cheaply, when a high-fidelity build would benefit from a low-fidelity draft first. Trigger when planning research, when scoping a new feature, when stakeholders want to see something concrete, or when the team is stuck arguing about an approach. Prototyping is one of the foundational principles in 'Universal Principles of Design' (Lidwell, Holden, Butler 2003) and one of the highest-leverage process principles — the cheapest prototype that resolves the question is almost always cheaper than the consequences of skipping it.
+description: 'Use this skill whenever the design has unknowns that need testing — when a sketch could resolve a debate, when assumptions about user behavior could be checked cheaply, when a high-fidelity build would benefit from a low-fidelity draft first. Trigger when planning research, when scoping a new feature, when stakeholders want to see something concrete, or when the team is stuck arguing about an approach. Prototyping is one of the foundational principles in ''Universal Principles of Design'' (Lidwell, Holden, Butler 2003) and one of the highest-leverage process principles — the cheapest prototype that resolves the question is almost always cheaper than the consequences of skipping it.'
 ---
 
 # Prototyping

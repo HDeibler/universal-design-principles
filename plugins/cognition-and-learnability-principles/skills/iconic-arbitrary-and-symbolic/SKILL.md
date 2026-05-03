@@ -1,6 +1,6 @@
 ---
 name: iconic-arbitrary-and-symbolic
-description: Apply arbitrary and symbolic icon design — using forms with no inherent meaning that depend on convention to communicate (the hamburger menu, the kebab menu, the AI sparkle, app brand-mark icons). Use when a function has no clear visual referent, when working within a domain that has its own icon vocabulary, when establishing or following a convention, or when evaluating whether a convention is strong enough to support icon-only treatment. Arbitrary icons require prior learning to work; the skill is calibrating when to follow a convention vs. when to label.
+description: 'Apply arbitrary and symbolic icon design — using forms with no inherent meaning that depend on convention to communicate (the hamburger menu, the kebab menu, the AI sparkle, app brand-mark icons). Use when a function has no clear visual referent, when working within a domain that has its own icon vocabulary, when establishing or following a convention, or when evaluating whether a convention is strong enough to support icon-only treatment. Arbitrary icons require prior learning to work; the skill is calibrating when to follow a convention vs. when to label.'
 ---
 
 # Iconic Representation — arbitrary and symbolic

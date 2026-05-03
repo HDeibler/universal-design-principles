@@ -1,6 +1,6 @@
 ---
 name: wayfinding-search-and-recovery
-description: Use this skill when designing search as the universal wayfinding recovery, or when designing for users who got lost — 404 pages, "results not found," "you've reached an unexpected page," empty states that should orient, and any moment where the user's mental map has failed and the system must repair it. Trigger when designing global search, command palette, error pages, or recovery flows. Sub-aspect of `wayfinding`; read that first.
+description: 'Use this skill when designing search as the universal wayfinding recovery, or when designing for users who got lost — 404 pages, "results not found," "you''ve reached an unexpected page," empty states that should orient, and any moment where the user''s mental map has failed and the system must repair it. Trigger when designing global search, command palette, error pages, or recovery flows. Sub-aspect of `wayfinding`; read that first.'
 ---
 
 # Wayfinding: search and recovery

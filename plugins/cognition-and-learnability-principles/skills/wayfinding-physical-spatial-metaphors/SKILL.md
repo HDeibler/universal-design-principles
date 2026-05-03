@@ -1,6 +1,6 @@
 ---
 name: wayfinding-physical-spatial-metaphors
-description: Use this skill when deciding whether (and how) to borrow physical-world wayfinding metaphors for software — rooms, doors, paths, maps, landmarks. Trigger when designing app shells with multiple "spaces," when picking metaphors for navigation (workspace, channel, board, project), when reviewing skeuomorphic vs. flat navigation choices, or when the user mentions "feels like a maze" or "where's the front door of this app." Sub-aspect of `wayfinding`; read that first.
+description: 'Use this skill when deciding whether (and how) to borrow physical-world wayfinding metaphors for software — rooms, doors, paths, maps, landmarks. Trigger when designing app shells with multiple "spaces," when picking metaphors for navigation (workspace, channel, board, project), when reviewing skeuomorphic vs. flat navigation choices, or when the user mentions "feels like a maze" or "where''s the front door of this app." Sub-aspect of `wayfinding`; read that first.'
 ---
 
 # Wayfinding through physical-spatial metaphors

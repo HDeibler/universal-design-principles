@@ -1,6 +1,6 @@
 ---
 name: progressive-disclosure-defaults-and-tucking
-description: Use this skill when deciding *what to surface* and *what to tuck* — the editorial choices behind progressive disclosure. Trigger when laying out a settings page, picking which form fields to show by default, deciding whether a section starts collapsed or open, or arguing about whether a feature deserves primary chrome or belongs in "Advanced." Sub-aspect of `progressive-disclosure`; read that first.
+description: 'Use this skill when deciding *what to surface* and *what to tuck* — the editorial choices behind progressive disclosure. Trigger when laying out a settings page, picking which form fields to show by default, deciding whether a section starts collapsed or open, or arguing about whether a feature deserves primary chrome or belongs in "Advanced." Sub-aspect of `progressive-disclosure`; read that first.'
 ---
 
 # Progressive disclosure: defaults and tucking decisions

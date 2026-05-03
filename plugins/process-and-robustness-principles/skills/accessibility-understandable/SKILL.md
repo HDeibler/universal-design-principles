@@ -1,6 +1,6 @@
 ---
 name: accessibility-understandable
-description: Use this skill when the question is whether users can *understand* the UI — predict its behavior, recover from errors, comprehend its labels and copy. Trigger when writing form labels and error messages, when designing flows with surprising state changes, when picking microcopy for the destructive moments, or when reviewing a UI that "works correctly but confuses people." Covers WCAG Principle 3 (Understandable). Sub-aspect of `accessibility`; read that first if you haven't already.
+description: 'Use this skill when the question is whether users can *understand* the UI — predict its behavior, recover from errors, comprehend its labels and copy. Trigger when writing form labels and error messages, when designing flows with surprising state changes, when picking microcopy for the destructive moments, or when reviewing a UI that "works correctly but confuses people." Covers WCAG Principle 3 (Understandable). Sub-aspect of `accessibility`; read that first if you haven''t already.'
 ---
 
 # Accessibility — Understandable

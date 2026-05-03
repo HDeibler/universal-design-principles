@@ -1,6 +1,6 @@
 ---
 name: iteration-prototype-fidelity
-description: Use this skill when picking the appropriate prototype fidelity for an iteration cycle — sketches vs. wireframes vs. clickable Figma vs. code prototypes vs. production beta. Trigger when planning a research session, when a project is over- or under-investing in prototypes, or when the prototype fidelity is mismatched to the question being asked. Sub-aspect of `iteration`; read that first.
+description: 'Use this skill when picking the appropriate prototype fidelity for an iteration cycle — sketches vs. wireframes vs. clickable Figma vs. code prototypes vs. production beta. Trigger when planning a research session, when a project is over- or under-investing in prototypes, or when the prototype fidelity is mismatched to the question being asked. Sub-aspect of `iteration`; read that first.'
 ---
 
 # Picking the right prototype fidelity

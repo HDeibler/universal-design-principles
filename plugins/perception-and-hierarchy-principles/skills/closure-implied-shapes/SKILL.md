@@ -1,6 +1,6 @@
 ---
 name: closure-implied-shapes
-description: Design forms that exploit closure — suggesting shapes through partial outlines, negative space, or strategic gaps so the user's perception completes them. Use when designing icons that need to read at small sizes, logos that need memorability, illustrations with restraint, card layouts with implied containment, or charts with implied structure. The art is suggesting just enough that the user perceives the whole, without leaving so little that they perceive nothing.
+description: 'Design forms that exploit closure — suggesting shapes through partial outlines, negative space, or strategic gaps so the user''s perception completes them. Use when designing icons that need to read at small sizes, logos that need memorability, illustrations with restraint, card layouts with implied containment, or charts with implied structure. The art is suggesting just enough that the user perceives the whole, without leaving so little that they perceive nothing.'
 ---
 
 # Closure — implied shapes

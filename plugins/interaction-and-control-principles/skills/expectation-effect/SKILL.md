@@ -1,6 +1,6 @@
 ---
 name: expectation-effect
-description: Apply the Expectation Effect — the principle that prior expectations measurably change a person's perception of a product or experience. Use when shaping the framing of new features, designing onboarding, choosing visual cues that signal premium vs. budget, or diagnosing why two functionally identical features feel different to users. Expectations are set by visual cues (premium materials, polished typography), language (precise, confident copy), social proof, price, and prior brand exposure. Setting expectations too high creates disappointment; too low and the product reads as mediocre. The skill is calibrating what to promise.
+description: 'Apply the Expectation Effect — the principle that prior expectations measurably change a person''s perception of a product or experience. Use when shaping the framing of new features, designing onboarding, choosing visual cues that signal premium vs. budget, or diagnosing why two functionally identical features feel different to users. Expectations are set by visual cues (premium materials, polished typography), language (precise, confident copy), social proof, price, and prior brand exposure. Setting expectations too high creates disappointment; too low and the product reads as mediocre. The skill is calibrating what to promise.'
 ---
 
 # Expectation Effect

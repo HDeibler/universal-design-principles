@@ -1,6 +1,6 @@
 ---
 name: wabi-sabi-imperfection
-description: Design intentional imperfection that reads as warmth — subtle asymmetry, hand-drawn elements, organic textures, intentional irregularities. Use when adding human warmth to a digital design, distinguishing from competitors with uniform design systems, designing for personal or creative contexts. The skill is making imperfection look intentional and refined rather than sloppy or broken; the line between "designed warmth" and "looks unfinished" is narrow.
+description: 'Design intentional imperfection that reads as warmth — subtle asymmetry, hand-drawn elements, organic textures, intentional irregularities. Use when adding human warmth to a digital design, distinguishing from competitors with uniform design systems, designing for personal or creative contexts. The skill is making imperfection look intentional and refined rather than sloppy or broken; the line between "designed warmth" and "looks unfinished" is narrow.'
 ---
 
 # Wabi-Sabi — imperfection

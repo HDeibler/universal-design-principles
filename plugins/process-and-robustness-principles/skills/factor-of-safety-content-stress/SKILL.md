@@ -1,6 +1,6 @@
 ---
 name: factor-of-safety-content-stress
-description: Use this skill when designing UI to survive content extremes — long names, big numbers, multi-line addresses, missing images, internationalized strings, dense data. Trigger when reviewing a design against worst-case content, when bug reports show layouts breaking on real data, or when picking content limits and validation rules. Sub-aspect of `factor-of-safety`; read that first.
+description: 'Use this skill when designing UI to survive content extremes — long names, big numbers, multi-line addresses, missing images, internationalized strings, dense data. Trigger when reviewing a design against worst-case content, when bug reports show layouts breaking on real data, or when picking content limits and validation rules. Sub-aspect of `factor-of-safety`; read that first.'
 ---
 
 # Designing for content stress

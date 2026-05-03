@@ -1,6 +1,6 @@
 ---
 name: accessibility-perceivable
-description: Use this skill when the question is whether users can *perceive* the content — see it, hear it, or feel it — regardless of impairment. Trigger when designing color systems, picking text sizes, building image-heavy surfaces, working with video/audio, designing for low-vision users, or running an accessibility audit. Covers WCAG Principle 1 (Perceivable). Sub-aspect of `accessibility`; read that first if you haven't already.
+description: 'Use this skill when the question is whether users can *perceive* the content — see it, hear it, or feel it — regardless of impairment. Trigger when designing color systems, picking text sizes, building image-heavy surfaces, working with video/audio, designing for low-vision users, or running an accessibility audit. Covers WCAG Principle 1 (Perceivable). Sub-aspect of `accessibility`; read that first if you haven''t already.'
 ---
 
 # Accessibility — Perceivable

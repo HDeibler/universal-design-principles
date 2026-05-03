@@ -1,6 +1,6 @@
 ---
 name: chunking-numeric-and-otp
-description: Use this skill when designing inputs or displays for numeric strings — phone numbers, OTP / verification codes, credit card numbers, account IDs, license keys, currency, dates, social security numbers. Trigger when picking a format for displaying numbers, designing OTP entry UIs, or formatting identifiers in tables and receipts. Sub-aspect of `chunking`; read that first.
+description: 'Use this skill when designing inputs or displays for numeric strings — phone numbers, OTP / verification codes, credit card numbers, account IDs, license keys, currency, dates, social security numbers. Trigger when picking a format for displaying numbers, designing OTP entry UIs, or formatting identifiers in tables and receipts. Sub-aspect of `chunking`; read that first.'
 ---
 
 # Chunking applied to numeric strings

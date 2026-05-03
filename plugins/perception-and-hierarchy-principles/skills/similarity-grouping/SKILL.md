@@ -1,6 +1,6 @@
 ---
 name: similarity-grouping
-description: Use visual similarity to create perceptual groups — making related items look alike so users perceive them as a set. Use when designing lists with categorized items, navigation systems, status displays, dashboards with multiple data series, or any layout where you want users to see "these things go together" at a glance. The strongest grouping cues, in order, are color, size, shape, and orientation; combine multiple cues for the strongest grouping.
+description: 'Use visual similarity to create perceptual groups — making related items look alike so users perceive them as a set. Use when designing lists with categorized items, navigation systems, status displays, dashboards with multiple data series, or any layout where you want users to see "these things go together" at a glance. The strongest grouping cues, in order, are color, size, shape, and orientation; combine multiple cues for the strongest grouping.'
 ---
 
 # Similarity — grouping

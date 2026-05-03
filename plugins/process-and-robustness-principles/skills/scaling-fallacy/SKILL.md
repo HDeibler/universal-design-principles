@@ -1,6 +1,6 @@
 ---
 name: scaling-fallacy
-description: Apply the principle of avoiding the Scaling Fallacy — the assumption that a system that works at one scale will work at a different (smaller or larger) scale. Use when scaling a feature from prototype to production, designing for an unfamiliar user volume, evaluating whether a process that works for 10 users will work for 10,000, or planning a launch in a much larger market. Two distinct kinds: load assumptions (will it handle the volume?) and interaction assumptions (will users behave the same way?). Both need testing at the actual scale.
+description: 'Apply the principle of avoiding the Scaling Fallacy — the assumption that a system that works at one scale will work at a different (smaller or larger) scale. Use when scaling a feature from prototype to production, designing for an unfamiliar user volume, evaluating whether a process that works for 10 users will work for 10,000, or planning a launch in a much larger market. Two distinct kinds: load assumptions (will it handle the volume?) and interaction assumptions (will users behave the same way?). Both need testing at the actual scale.'
 ---
 
 # Scaling Fallacy

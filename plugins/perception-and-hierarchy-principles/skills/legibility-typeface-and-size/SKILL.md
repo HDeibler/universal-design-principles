@@ -1,6 +1,6 @@
 ---
 name: legibility-typeface-and-size
-description: Apply typeface and size choices for legibility — picking the right typeface for the use case (display, body, code, UI) and sizing it appropriately for the rendering context. Use when designing a type system for a product, choosing a brand typeface, evaluating an existing typeface against rendering conditions, picking sizes for body, headings, captions, code, or UI elements. The two most fundamental legibility decisions; everything else (contrast, spacing) is layered on top.
+description: 'Apply typeface and size choices for legibility — picking the right typeface for the use case (display, body, code, UI) and sizing it appropriately for the rendering context. Use when designing a type system for a product, choosing a brand typeface, evaluating an existing typeface against rendering conditions, picking sizes for body, headings, captions, code, or UI elements. The two most fundamental legibility decisions; everything else (contrast, spacing) is layered on top.'
 ---
 
 # Legibility — typeface and size

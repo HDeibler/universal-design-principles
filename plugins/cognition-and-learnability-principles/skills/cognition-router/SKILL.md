@@ -1,6 +1,6 @@
 ---
 name: cognition-router
-description: Use this skill whenever a design task involves cognition, mental models, learnability, complexity reduction, defaults, memory, scanning, or comprehension — regardless of framework or platform. Trigger when the user is designing forms, settings, onboarding, dashboards with many widgets, complex tables, navigation IA, search experiences, or any flow that has many options or asks the user to learn something new. Trigger when the user mentions "too complex," "too many options," "users keep getting confused," defaults, labels, copy, mental models, progressive disclosure, autocomplete, or ergonomics. Routes the model to the right cognition principle in this plugin.
+description: 'Use this skill whenever a design task involves cognition, mental models, learnability, complexity reduction, defaults, memory, scanning, or comprehension — regardless of framework or platform. Trigger when the user is designing forms, settings, onboarding, dashboards with many widgets, complex tables, navigation IA, search experiences, or any flow that has many options or asks the user to learn something new. Trigger when the user mentions "too complex," "too many options," "users keep getting confused," defaults, labels, copy, mental models, progressive disclosure, autocomplete, or ergonomics. Routes the model to the right cognition principle in this plugin.'
 ---
 
 # Cognition & learnability — router

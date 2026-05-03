@@ -1,6 +1,6 @@
 ---
 name: ockhams-razor
-description: Apply Ockham's Razor — given a choice between functionally equivalent designs, prefer the simplest. Use when comparing design approaches, evaluating whether a feature is necessary, deciding between elaborate and minimal solutions, auditing a product for accumulated complexity, or pruning features that no longer earn their place. The principle is not "always make things simpler" — it's "when two designs do the same thing, pick the simpler one." Most design problems involve actual tradeoffs; the razor cuts only when functionality is truly equivalent.
+description: 'Apply Ockham''s Razor — given a choice between functionally equivalent designs, prefer the simplest. Use when comparing design approaches, evaluating whether a feature is necessary, deciding between elaborate and minimal solutions, auditing a product for accumulated complexity, or pruning features that no longer earn their place. The principle is not "always make things simpler" — it''s "when two designs do the same thing, pick the simpler one." Most design problems involve actual tradeoffs; the razor cuts only when functionality is truly equivalent.'
 ---
 
 # Ockham's Razor

@@ -1,6 +1,6 @@
 ---
 name: aesthetics-router
-description: Use this skill whenever a design task involves the felt quality of an interface — beauty, polish, brand voice, persuasion, emotional response, marketing surfaces, hero sections, onboarding tone, empty/celebration states, illustrations, mascots, avatars. Trigger when the user mentions tone, polish, brand, "feels cold/cheap/premium," personality, voice, mascot, hero, "make it more delightful," or asks how a screen should make the user feel. Framework-agnostic. Routes the model to the right aesthetics principle in this plugin.
+description: 'Use this skill whenever a design task involves the felt quality of an interface — beauty, polish, brand voice, persuasion, emotional response, marketing surfaces, hero sections, onboarding tone, empty/celebration states, illustrations, mascots, avatars. Trigger when the user mentions tone, polish, brand, "feels cold/cheap/premium," personality, voice, mascot, hero, "make it more delightful," or asks how a screen should make the user feel. Framework-agnostic. Routes the model to the right aesthetics principle in this plugin.'
 ---
 
 # Aesthetics & emotion — router

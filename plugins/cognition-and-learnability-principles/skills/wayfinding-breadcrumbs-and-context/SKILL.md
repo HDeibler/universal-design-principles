@@ -1,6 +1,6 @@
 ---
 name: wayfinding-breadcrumbs-and-context
-description: Use this skill when designing the orientation chrome that tells users where they are — breadcrumbs, current-page indicators, page titles, header context, "you are here" markers, parent-link affordances. Trigger when designing a multi-level IA, when users complain "I lost track of where I was," when reviewing whether to add or remove a breadcrumb, or when picking between navigation patterns for hierarchical content. Sub-aspect of `wayfinding`; read that first.
+description: 'Use this skill when designing the orientation chrome that tells users where they are — breadcrumbs, current-page indicators, page titles, header context, "you are here" markers, parent-link affordances. Trigger when designing a multi-level IA, when users complain "I lost track of where I was," when reviewing whether to add or remove a breadcrumb, or when picking between navigation patterns for hierarchical content. Sub-aspect of `wayfinding`; read that first.'
 ---
 
 # Wayfinding: breadcrumbs and "you are here" context

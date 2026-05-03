@@ -1,6 +1,6 @@
 ---
 name: closure-completion-cost
-description: Recognize when closure is the wrong choice — when the perceptual completion work it asks of the user is too costly, ambiguous, or risky. Use when designing for accessibility audiences, novice users, high-stakes interfaces (medical, financial, safety), small rendering sizes that strain perception, or any context where the user shouldn't have to do completion work to understand the form. The skill is judging when explicit forms serve the user better than suggested ones, even at the cost of visual elegance.
+description: 'Recognize when closure is the wrong choice — when the perceptual completion work it asks of the user is too costly, ambiguous, or risky. Use when designing for accessibility audiences, novice users, high-stakes interfaces (medical, financial, safety), small rendering sizes that strain perception, or any context where the user shouldn''t have to do completion work to understand the form. The skill is judging when explicit forms serve the user better than suggested ones, even at the cost of visual elegance.'
 ---
 
 # Closure — completion cost

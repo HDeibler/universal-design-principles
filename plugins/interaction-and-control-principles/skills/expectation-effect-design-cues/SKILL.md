@@ -1,6 +1,6 @@
 ---
 name: expectation-effect-design-cues
-description: Apply in-product expectation cues — typography, animation, spacing, copy tone, micro-interactions, and visual register that signal "this is the kind of product you're using" within seconds of opening it. Use when designing the first-screen experience, picking a typography system, deciding loading-state behavior, choosing animation timing, or polishing the surface details that telegraph product quality. Surface cues set expectations for the whole session and create halo effects (positive or negative) that color every later interaction. Small surface details have outsized impact on perceived overall quality.
+description: 'Apply in-product expectation cues — typography, animation, spacing, copy tone, micro-interactions, and visual register that signal "this is the kind of product you''re using" within seconds of opening it. Use when designing the first-screen experience, picking a typography system, deciding loading-state behavior, choosing animation timing, or polishing the surface details that telegraph product quality. Surface cues set expectations for the whole session and create halo effects (positive or negative) that color every later interaction. Small surface details have outsized impact on perceived overall quality.'
 ---
 
 # Expectation Effect — design cues

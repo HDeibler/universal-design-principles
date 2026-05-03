@@ -1,6 +1,6 @@
 ---
 name: archetypes-storytelling-arcs
-description: Use this skill when designing narrative content — landing pages, case studies, onboarding flows, marketing campaigns, sales decks, ad arcs. Trigger when picking how to frame a customer story, when writing a launch campaign, or when the user mentions "this campaign feels flat" or "we need a better narrative." Sub-aspect of `archetypes`; read that first.
+description: 'Use this skill when designing narrative content — landing pages, case studies, onboarding flows, marketing campaigns, sales decks, ad arcs. Trigger when picking how to frame a customer story, when writing a launch campaign, or when the user mentions "this campaign feels flat" or "we need a better narrative." Sub-aspect of `archetypes`; read that first.'
 ---
 
 # Storytelling arcs and the hero's journey

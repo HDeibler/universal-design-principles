@@ -1,6 +1,6 @@
 ---
 name: errors-mistakes
-description: Use this skill when designing to prevent errors of intention — wrong actions taken because the user's model of the situation was wrong. Trigger when designing for ambiguous information, novel situations, complex decisions, or contexts where users may proceed with confidence based on a wrong understanding. Sub-aspect of `errors`; read that first.
+description: 'Use this skill when designing to prevent errors of intention — wrong actions taken because the user''s model of the situation was wrong. Trigger when designing for ambiguous information, novel situations, complex decisions, or contexts where users may proceed with confidence based on a wrong understanding. Sub-aspect of `errors`; read that first.'
 ---
 
 # Mistakes: errors of intention

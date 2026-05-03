@@ -1,6 +1,6 @@
 ---
 name: chunking
-description: Use this skill whenever the user must hold a sequence of items in working memory — phone numbers, OTP codes, account IDs, address strings, multi-step instructions, long forms, navigation menus with many items. Trigger when designing OTP / verification UIs, formatting numeric strings, breaking long forms into sections, grouping nav items, or reviewing surfaces that "have too many things at once." Chunking is one of the foundational principles in 'Universal Principles of Design' (Lidwell, Holden, Butler 2003), grounded in Miller's classic working-memory research.
+description: 'Use this skill whenever the user must hold a sequence of items in working memory — phone numbers, OTP codes, account IDs, address strings, multi-step instructions, long forms, navigation menus with many items. Trigger when designing OTP / verification UIs, formatting numeric strings, breaking long forms into sections, grouping nav items, or reviewing surfaces that "have too many things at once." Chunking is one of the foundational principles in ''Universal Principles of Design'' (Lidwell, Holden, Butler 2003), grounded in Miller''s classic working-memory research.'
 ---
 
 # Chunking

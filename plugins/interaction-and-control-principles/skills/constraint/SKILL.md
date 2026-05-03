@@ -1,6 +1,6 @@
 ---
 name: constraint
-description: Use this skill whenever the design must structurally prevent invalid actions — input validation, disabled states, required fields, type-restricted inputs, mode locks, role-based gates, hardware lockouts. Trigger when designing forms, picking input types, designing destructive flows, gating multi-step procedures, or thinking about how to prevent a class of errors from being possible at all. Constraint is one of the foundational principles in 'Universal Principles of Design' (Lidwell, Holden, Butler 2003) and one of the strongest design moves available — preventing wrong actions is more powerful than detecting them after the fact.
+description: 'Use this skill whenever the design must structurally prevent invalid actions — input validation, disabled states, required fields, type-restricted inputs, mode locks, role-based gates, hardware lockouts. Trigger when designing forms, picking input types, designing destructive flows, gating multi-step procedures, or thinking about how to prevent a class of errors from being possible at all. Constraint is one of the foundational principles in ''Universal Principles of Design'' (Lidwell, Holden, Butler 2003) and one of the strongest design moves available — preventing wrong actions is more powerful than detecting them after the fact.'
 ---
 
 # Constraint

@@ -1,6 +1,6 @@
 ---
 name: mimicry-surface
-description: Apply surface mimicry — making an interface element look like a familiar physical object to communicate its purpose at a glance. Use when introducing a control or container that has no native UI vocabulary, designing a niche product that benefits from a recognizable visual reference (a journal that looks like a journal, a wallet that looks like a wallet), or evaluating whether visual skeuomorphism is communicating or just decorating. Surface mimicry is most useful for novice users in unfamiliar mediums; it becomes anachronistic as the source fades or as users learn the abstract conventions.
+description: 'Apply surface mimicry — making an interface element look like a familiar physical object to communicate its purpose at a glance. Use when introducing a control or container that has no native UI vocabulary, designing a niche product that benefits from a recognizable visual reference (a journal that looks like a journal, a wallet that looks like a wallet), or evaluating whether visual skeuomorphism is communicating or just decorating. Surface mimicry is most useful for novice users in unfamiliar mediums; it becomes anachronistic as the source fades or as users learn the abstract conventions.'
 ---
 
 # Mimicry — surface

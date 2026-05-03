@@ -1,6 +1,6 @@
 ---
 name: form-follows-function-success-criteria
-description: Use this skill when the team is in a form-vs-function debate and needs to step back to define what "success" actually means for the design. Trigger when stakeholders disagree about visual treatment, when a design feels off and no one can articulate why, or when reviewing a design against an unclear brief. Sub-aspect of `form-follows-function`; read that first.
+description: 'Use this skill when the team is in a form-vs-function debate and needs to step back to define what "success" actually means for the design. Trigger when stakeholders disagree about visual treatment, when a design feels off and no one can articulate why, or when reviewing a design against an unclear brief. Sub-aspect of `form-follows-function`; read that first.'
 ---
 
 # Defining success criteria explicitly

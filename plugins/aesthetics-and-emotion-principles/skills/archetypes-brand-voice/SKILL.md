@@ -1,6 +1,6 @@
 ---
 name: archetypes-brand-voice
-description: Use this skill when picking a brand archetype, propagating it across product and marketing surfaces, or auditing brand-voice consistency. Trigger when designing the voice of microcopy, marketing pages, support tone, or any brand-facing communication. Sub-aspect of `archetypes`; read that first.
+description: 'Use this skill when picking a brand archetype, propagating it across product and marketing surfaces, or auditing brand-voice consistency. Trigger when designing the voice of microcopy, marketing pages, support tone, or any brand-facing communication. Sub-aspect of `archetypes`; read that first.'
 ---
 
 # Brand voice through archetypes

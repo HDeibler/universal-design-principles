@@ -1,6 +1,6 @@
 ---
 name: exposure-onboarding
-description: Use the exposure effect deliberately in onboarding and habit formation — getting users to repeated, low-friction encounters with the product so familiarity builds and preference forms. Use when designing onboarding flows, planning feature introductions, building user habits, or evaluating why users churn after first use. The exposure effect operates over time; products that get users to come back early benefit from accumulated familiarity that single-session products don't.
+description: 'Use the exposure effect deliberately in onboarding and habit formation — getting users to repeated, low-friction encounters with the product so familiarity builds and preference forms. Use when designing onboarding flows, planning feature introductions, building user habits, or evaluating why users churn after first use. The exposure effect operates over time; products that get users to come back early benefit from accumulated familiarity that single-session products don''t.'
 ---
 
 # Exposure Effect — onboarding and habit

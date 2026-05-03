@@ -1,6 +1,6 @@
 ---
 name: chunking-form-grouping
-description: Use this skill when designing or fixing long forms that ask the user for many fields — sign-up flows, profile setup, settings panels, checkout, intake forms, applications. Trigger when forms exceed ~6 fields, when users complain forms are "too long," when seeing high mid-form drop-off, or when picking how to break a form into sections. Sub-aspect of `chunking`; read that first.
+description: 'Use this skill when designing or fixing long forms that ask the user for many fields — sign-up flows, profile setup, settings panels, checkout, intake forms, applications. Trigger when forms exceed ~6 fields, when users complain forms are "too long," when seeing high mid-form drop-off, or when picking how to break a form into sections. Sub-aspect of `chunking`; read that first.'
 ---
 
 # Chunking applied to forms

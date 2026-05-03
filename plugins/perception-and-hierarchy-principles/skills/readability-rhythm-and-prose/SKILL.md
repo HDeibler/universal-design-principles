@@ -1,6 +1,6 @@
 ---
 name: readability-rhythm-and-prose
-description: Apply paragraph rhythm and prose-level readability — calibrating leading, paragraph spacing, subheading frequency, and visual breathing room so that long-form text reads smoothly without fatigue. Use when designing article layouts, documentation, reports, transcripts, or any context with sustained prose. Beyond line length and legibility, the rhythm of prose layout — the rest points provided by paragraph breaks, the hierarchy provided by subheadings, the breathing room provided by margins — determines whether readers stay engaged with long content.
+description: 'Apply paragraph rhythm and prose-level readability — calibrating leading, paragraph spacing, subheading frequency, and visual breathing room so that long-form text reads smoothly without fatigue. Use when designing article layouts, documentation, reports, transcripts, or any context with sustained prose. Beyond line length and legibility, the rhythm of prose layout — the rest points provided by paragraph breaks, the hierarchy provided by subheadings, the breathing room provided by margins — determines whether readers stay engaged with long content.'
 ---
 
 # Readability — rhythm and prose

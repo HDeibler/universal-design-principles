@@ -1,6 +1,6 @@
 ---
 name: wayfinding
-description: Use this skill whenever a user must navigate within a non-trivial space — a multi-page web app, a documentation site, a hierarchical settings panel, a conference site, a multi-step flow, a campus, a building, an app with deep IA. Trigger when the user asks how navigation should be structured, when users get lost, when "I can't find X" complaints recur, when designing breadcrumbs, sitemaps, search, or recovery flows. Wayfinding is one of the foundational principles in 'Universal Principles of Design' (Lidwell, Holden, Butler 2003); it's also the only principle from that source not previously covered by these plugins. Routes to sub-aspect skills for spatial metaphors, search-and-recovery, and breadcrumbs.
+description: 'Use this skill whenever a user must navigate within a non-trivial space — a multi-page web app, a documentation site, a hierarchical settings panel, a conference site, a multi-step flow, a campus, a building, an app with deep IA. Trigger when the user asks how navigation should be structured, when users get lost, when "I can''t find X" complaints recur, when designing breadcrumbs, sitemaps, search, or recovery flows. Wayfinding is one of the foundational principles in ''Universal Principles of Design'' (Lidwell, Holden, Butler 2003); it''s also the only principle from that source not previously covered by these plugins. Routes to sub-aspect skills for spatial metaphors, search-and-recovery, and breadcrumbs.'
 ---
 
 # Wayfinding

@@ -1,6 +1,6 @@
 ---
 name: iteration
-description: Use this skill whenever the question is *how* to develop a design — through one big push or through repeated cycles of build, test, learn, refine. Trigger when planning a design process, scoping an MVP, deciding between waterfall and iterative delivery, planning research cadence, or reviewing why a project drifted from its original vision. Iteration is one of the foundational principles in 'Universal Principles of Design' (Lidwell, Holden, Butler 2003) — and one of the most-violated by teams that try to ship "perfect" first versions.
+description: 'Use this skill whenever the question is *how* to develop a design — through one big push or through repeated cycles of build, test, learn, refine. Trigger when planning a design process, scoping an MVP, deciding between waterfall and iterative delivery, planning research cadence, or reviewing why a project drifted from its original vision. Iteration is one of the foundational principles in ''Universal Principles of Design'' (Lidwell, Holden, Butler 2003) — and one of the most-violated by teams that try to ship "perfect" first versions.'
 ---
 
 # Iteration

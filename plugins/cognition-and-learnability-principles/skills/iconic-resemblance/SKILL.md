@@ -1,6 +1,6 @@
 ---
 name: iconic-resemblance
-description: Apply iconic resemblance — designing or choosing icons that visually look like what they represent. Use when picking icons for actions or objects with strong visual referents (camera, clock, lock, calendar), evaluating whether a custom icon is communicating, or testing whether your icon set actually conveys meaning to your audience. Resemblance is the strongest form of icon recognition because it requires no prior learning; it fails when the function has no visual referent or when the audience doesn't recognize the object being depicted.
+description: 'Apply iconic resemblance — designing or choosing icons that visually look like what they represent. Use when picking icons for actions or objects with strong visual referents (camera, clock, lock, calendar), evaluating whether a custom icon is communicating, or testing whether your icon set actually conveys meaning to your audience. Resemblance is the strongest form of icon recognition because it requires no prior learning; it fails when the function has no visual referent or when the audience doesn''t recognize the object being depicted.'
 ---
 
 # Iconic Representation — resemblance

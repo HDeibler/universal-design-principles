@@ -1,6 +1,6 @@
 ---
 name: affordance-false-and-anti
-description: Use this skill when designing or fixing controls that mislead users — elements that look interactive but aren't (false affordance), or controls that need to clearly communicate "you can't do that here" (anti-affordance, like disabled states). Trigger when reviewing UIs where users tap inert elements expecting response, when designing disabled states, when picking treatments for read-only fields, or when a "decorative" element is being mistaken for a button. Sub-aspect of `affordance`; read that first.
+description: 'Use this skill when designing or fixing controls that mislead users — elements that look interactive but aren''t (false affordance), or controls that need to clearly communicate "you can''t do that here" (anti-affordance, like disabled states). Trigger when reviewing UIs where users tap inert elements expecting response, when designing disabled states, when picking treatments for read-only fields, or when a "decorative" element is being mistaken for a button. Sub-aspect of `affordance`; read that first.'
 ---
 
 # False affordance and anti-affordance

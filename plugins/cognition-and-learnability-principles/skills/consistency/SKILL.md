@@ -1,6 +1,6 @@
 ---
 name: consistency
-description: Apply the principle of Consistency — making similar things look and behave similarly so users can transfer learning across the interface. Use when designing component libraries, defining naming conventions, choosing whether to invent or borrow patterns, auditing across surfaces (web, mobile, email, support docs), or evaluating whether two features should share or diverge in their interaction model. Strong consistency reduces cognitive load and learnability cost; aggressive consistency can flatten meaningful differences. There are four kinds — aesthetic, functional, internal, external — each with different applications.
+description: 'Apply the principle of Consistency — making similar things look and behave similarly so users can transfer learning across the interface. Use when designing component libraries, defining naming conventions, choosing whether to invent or borrow patterns, auditing across surfaces (web, mobile, email, support docs), or evaluating whether two features should share or diverge in their interaction model. Strong consistency reduces cognitive load and learnability cost; aggressive consistency can flatten meaningful differences. There are four kinds — aesthetic, functional, internal, external — each with different applications.'
 ---
 
 # Consistency

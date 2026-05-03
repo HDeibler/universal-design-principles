@@ -1,6 +1,6 @@
 ---
 name: affordance
-description: Use this skill whenever the question is whether the user can tell what an element does — whether it looks clickable, draggable, expandable, editable, or interactive at all. Trigger when designing buttons, links, custom controls, drag handles, draggable cards, editable inline fields, or any interactive element. Trigger on reviews when users hesitate, miss controls, or click on things that aren't interactive. Affordance is one of the most decisive principles in interaction design — Norman placed it at the center of *The Design of Everyday Things* — and it's one of the most violated by modern flat-design conventions that strip the visual cues users rely on.
+description: 'Use this skill whenever the question is whether the user can tell what an element does — whether it looks clickable, draggable, expandable, editable, or interactive at all. Trigger when designing buttons, links, custom controls, drag handles, draggable cards, editable inline fields, or any interactive element. Trigger on reviews when users hesitate, miss controls, or click on things that aren''t interactive. Affordance is one of the most decisive principles in interaction design — Norman placed it at the center of *The Design of Everyday Things* — and it''s one of the most violated by modern flat-design conventions that strip the visual cues users rely on.'
 ---
 
 # Affordance

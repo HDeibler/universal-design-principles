@@ -1,6 +1,6 @@
 ---
 name: mapping-cultural
-description: Apply cultural mapping — using shared conventions (icons, colors, gestures, metaphors) to convey what a control does when natural spatial mapping isn't available. Use when designing icon-based UIs, choosing colors for status indicators, picking gestures for touch interfaces, or selecting metaphors to make abstract operations concrete (the trash can, the gear, the magnifying glass). Cultural mappings are weaker than spatial ones — they require prior learning — but they're the workhorse of icon-driven interfaces. The risk is assuming a convention is universal when it's actually domain-specific.
+description: 'Apply cultural mapping — using shared conventions (icons, colors, gestures, metaphors) to convey what a control does when natural spatial mapping isn''t available. Use when designing icon-based UIs, choosing colors for status indicators, picking gestures for touch interfaces, or selecting metaphors to make abstract operations concrete (the trash can, the gear, the magnifying glass). Cultural mappings are weaker than spatial ones — they require prior learning — but they''re the workhorse of icon-driven interfaces. The risk is assuming a convention is universal when it''s actually domain-specific.'
 ---
 
 # Mapping — cultural (convention and signaling)

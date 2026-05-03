@@ -1,6 +1,6 @@
 ---
 name: feedback-loop
-description: Use this skill whenever a user takes an action and the system must communicate that the action was received, is in progress, succeeded, or failed. Trigger when designing button states, form submission, file uploads, payment flows, real-time UI updates, loading states, error states, success confirmations, or any moment when the user is waiting for the system to do something. Trigger when the user mentions "feels broken," "doesn't seem to work," "users keep clicking again," or any symptom of feedback gaps. Feedback Loop is one of the foundational principles in 'Universal Principles of Design' (Lidwell, Holden, Butler 2003) — and one of the principles whose absence most reliably damages a product's perceived quality.
+description: 'Use this skill whenever a user takes an action and the system must communicate that the action was received, is in progress, succeeded, or failed. Trigger when designing button states, form submission, file uploads, payment flows, real-time UI updates, loading states, error states, success confirmations, or any moment when the user is waiting for the system to do something. Trigger when the user mentions "feels broken," "doesn''t seem to work," "users keep clicking again," or any symptom of feedback gaps. Feedback Loop is one of the foundational principles in ''Universal Principles of Design'' (Lidwell, Holden, Butler 2003) — and one of the principles whose absence most reliably damages a product''s perceived quality.'
 ---
 
 # Feedback Loop

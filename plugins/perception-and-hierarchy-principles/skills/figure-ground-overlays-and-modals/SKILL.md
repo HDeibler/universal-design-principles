@@ -1,6 +1,6 @@
 ---
 name: figure-ground-overlays-and-modals
-description: Apply figure-ground separation specifically for overlays — modals, dialogs, drawers, popovers, dropdowns, toasts. Use when designing or auditing the moments when a UI element appears over the underlying page and needs to clearly come forward. The most common figure-ground design problem; getting it right means users naturally focus on the overlay, getting it wrong means modals blur into the page or feel jarring.
+description: 'Apply figure-ground separation specifically for overlays — modals, dialogs, drawers, popovers, dropdowns, toasts. Use when designing or auditing the moments when a UI element appears over the underlying page and needs to clearly come forward. The most common figure-ground design problem; getting it right means users naturally focus on the overlay, getting it wrong means modals blur into the page or feel jarring.'
 ---
 
 # Figure-Ground — overlays and modals

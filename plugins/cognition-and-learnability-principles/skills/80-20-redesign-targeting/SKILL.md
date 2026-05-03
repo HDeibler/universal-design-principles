@@ -1,6 +1,6 @@
 ---
 name: 80-20-redesign-targeting
-description: Use this skill when scoping a redesign or refactor — choosing which existing surfaces deserve full attention and which can be left mostly alone. Trigger when the user asks "where should we focus our redesign?", "do we need to redo all of this?", or when planning incremental design improvements with limited capacity. Sub-aspect of `80-20-rule`; read that first.
+description: 'Use this skill when scoping a redesign or refactor — choosing which existing surfaces deserve full attention and which can be left mostly alone. Trigger when the user asks "where should we focus our redesign?", "do we need to redo all of this?", or when planning incremental design improvements with limited capacity. Sub-aspect of `80-20-rule`; read that first.'
 ---
 
 # 80/20 in redesign targeting

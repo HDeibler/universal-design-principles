@@ -1,6 +1,6 @@
 ---
 name: exposure-effect
-description: Apply the Exposure Effect (mere-exposure effect) — the well-documented finding that repeated exposure to something tends to increase liking for it. Use when launching new features, planning redesigns, building brand familiarity, or evaluating user resistance to change. Familiarity reads as comfort and trust; novelty reads as risk. The effect explains why redesigns generate disproportionate user backlash, why incremental change beats radical change, and why brand consistency over time builds value beyond any single design choice.
+description: 'Apply the Exposure Effect (mere-exposure effect) — the well-documented finding that repeated exposure to something tends to increase liking for it. Use when launching new features, planning redesigns, building brand familiarity, or evaluating user resistance to change. Familiarity reads as comfort and trust; novelty reads as risk. The effect explains why redesigns generate disproportionate user backlash, why incremental change beats radical change, and why brand consistency over time builds value beyond any single design choice.'
 ---
 
 # Exposure Effect

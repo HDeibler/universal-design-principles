@@ -1,6 +1,6 @@
 ---
 name: proximity-data-tables
-description: Use this skill when designing or fixing data tables and tabular layouts — row spacing, column spacing, header treatment, group separators, total rows, sticky headers, dense vs. comfortable variants. Trigger when the user is laying out a table, deciding density, debugging "rows that are hard to follow," picking when to add zebra striping, or arguing for/against borders. Sub-aspect of `proximity`; read that first if you haven't already.
+description: 'Use this skill when designing or fixing data tables and tabular layouts — row spacing, column spacing, header treatment, group separators, total rows, sticky headers, dense vs. comfortable variants. Trigger when the user is laying out a table, deciding density, debugging "rows that are hard to follow," picking when to add zebra striping, or arguing for/against borders. Sub-aspect of `proximity`; read that first if you haven''t already.'
 ---
 
 # Proximity in data tables

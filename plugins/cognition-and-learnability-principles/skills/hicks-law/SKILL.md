@@ -1,6 +1,6 @@
 ---
 name: hicks-law
-description: Use this skill whenever a design has many options the user must choose among — menus, navigation, pickers, plan tiers, settings panels, action toolbars, lists of templates, anything that asks "which one?" Trigger when the user is laying out a navigation menu, designing a settings page, picking the structure of a wizard, building a country/timezone/currency picker, designing a pricing table, or reviewing a UI where users hesitate over which control to use. Trigger when there's debate about "should we add another option?" — Hick's Law is the principle that costs the option a price. Routes to sub-aspect skills for menus, defaults, and pricing.
+description: 'Use this skill whenever a design has many options the user must choose among — menus, navigation, pickers, plan tiers, settings panels, action toolbars, lists of templates, anything that asks "which one?" Trigger when the user is laying out a navigation menu, designing a settings page, picking the structure of a wizard, building a country/timezone/currency picker, designing a pricing table, or reviewing a UI where users hesitate over which control to use. Trigger when there''s debate about "should we add another option?" — Hick''s Law is the principle that costs the option a price. Routes to sub-aspect skills for menus, defaults, and pricing.'
 ---
 
 # Hick's Law

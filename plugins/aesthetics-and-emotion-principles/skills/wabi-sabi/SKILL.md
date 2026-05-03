@@ -1,6 +1,6 @@
 ---
 name: wabi-sabi
-description: Apply the principle of Wabi-Sabi — the aesthetic embrace of imperfection, impermanence, and naturalness. Use when designing for warmth and authenticity, creating spaces that feel lived-in rather than sterile, choosing handcrafted-feeling materials over machined perfection, or evaluating whether a design feels too polished and impersonal. Wabi-sabi resists the digital-design tendency toward pixel-perfect uniformity in favor of subtle asymmetry, organic textures, and the visible mark of process. Used appropriately, it produces designs that feel human; used reflexively, it produces fake-looking sloppiness.
+description: 'Apply the principle of Wabi-Sabi — the aesthetic embrace of imperfection, impermanence, and naturalness. Use when designing for warmth and authenticity, creating spaces that feel lived-in rather than sterile, choosing handcrafted-feeling materials over machined perfection, or evaluating whether a design feels too polished and impersonal. Wabi-sabi resists the digital-design tendency toward pixel-perfect uniformity in favor of subtle asymmetry, organic textures, and the visible mark of process. Used appropriately, it produces designs that feel human; used reflexively, it produces fake-looking sloppiness.'
 ---
 
 # Wabi-Sabi

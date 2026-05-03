@@ -1,6 +1,6 @@
 ---
 name: mental-model
-description: Use this skill whenever the design will be used by people who bring prior expectations — which is essentially every design. Trigger when designing onboarding, when picking metaphors (folders, channels, projects), when reviewing why users keep getting confused, when migrating from one product convention to another, or when the user mentions "users don't understand," "they keep doing X wrong," or "we're inventing something new." Mental Model is one of the foundational principles in 'Universal Principles of Design' (Lidwell, Holden, Butler 2003) and grounds most modern user-experience design.
+description: 'Use this skill whenever the design will be used by people who bring prior expectations — which is essentially every design. Trigger when designing onboarding, when picking metaphors (folders, channels, projects), when reviewing why users keep getting confused, when migrating from one product convention to another, or when the user mentions "users don''t understand," "they keep doing X wrong," or "we''re inventing something new." Mental Model is one of the foundational principles in ''Universal Principles of Design'' (Lidwell, Holden, Butler 2003) and grounds most modern user-experience design.'
 ---
 
 # Mental Model

@@ -1,6 +1,6 @@
 ---
 name: scaling-load-assumptions
-description: Verify and design for load scaling — data volume, transaction volume, request rate, and user count. Use when sizing infrastructure, choosing data structures, designing pagination and lazy-loading patterns, evaluating dependencies' rate limits, or load-testing before launch. Most scaling failures are load failures: a system that handled X requests/second can't handle 10X. The skill is anticipating the load the system will see and designing or testing for it deliberately.
+description: 'Verify and design for load scaling — data volume, transaction volume, request rate, and user count. Use when sizing infrastructure, choosing data structures, designing pagination and lazy-loading patterns, evaluating dependencies'' rate limits, or load-testing before launch. Most scaling failures are load failures: a system that handled X requests/second can''t handle 10X. The skill is anticipating the load the system will see and designing or testing for it deliberately.'
 ---
 
 # Scaling — load assumptions

@@ -1,6 +1,6 @@
 ---
 name: legibility-contrast-and-spacing
-description: Apply contrast and spacing for legibility — calibrating color contrast between text and background, character tracking, and line leading so a chosen typeface and size actually render legibly. Use when picking text colors, choosing background colors that will carry text, evaluating accessibility against WCAG, fine-tuning typography for production rendering, or auditing why text "looks designed" but is hard to read. Even a perfect typeface at the right size will fail if contrast is too low, tracking too tight, or leading too cramped.
+description: 'Apply contrast and spacing for legibility — calibrating color contrast between text and background, character tracking, and line leading so a chosen typeface and size actually render legibly. Use when picking text colors, choosing background colors that will carry text, evaluating accessibility against WCAG, fine-tuning typography for production rendering, or auditing why text "looks designed" but is hard to read. Even a perfect typeface at the right size will fail if contrast is too low, tracking too tight, or leading too cramped.'
 ---
 
 # Legibility — contrast and spacing

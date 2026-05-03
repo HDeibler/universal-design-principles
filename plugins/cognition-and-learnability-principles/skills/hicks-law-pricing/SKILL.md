@@ -1,6 +1,6 @@
 ---
 name: hicks-law-pricing
-description: Use this skill when designing pricing tables, plan pickers, tier selectors, or any conversion surface where the choice itself is the conversion event. Trigger when laying out 3-tier or 4-tier pricing, when arguing about whether to add a fourth plan, when designing the "Choose your plan" step of onboarding, or when fixing low conversion on a pricing page. Pricing pages are a special Hick's Law case: the decision is the entire purpose of the page, and decision fatigue equals lost revenue. Sub-aspect of `hicks-law`; read that first if you haven't already.
+description: 'Use this skill when designing pricing tables, plan pickers, tier selectors, or any conversion surface where the choice itself is the conversion event. Trigger when laying out 3-tier or 4-tier pricing, when arguing about whether to add a fourth plan, when designing the "Choose your plan" step of onboarding, or when fixing low conversion on a pricing page. Pricing pages are a special Hick''s Law case: the decision is the entire purpose of the page, and decision fatigue equals lost revenue. Sub-aspect of `hicks-law`; read that first if you haven''t already.'
 ---
 
 # Hick's Law on pricing pages

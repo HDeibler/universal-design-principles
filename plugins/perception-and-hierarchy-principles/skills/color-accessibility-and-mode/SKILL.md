@@ -1,6 +1,6 @@
 ---
 name: color-accessibility-and-mode
-description: Use this skill when designing color systems that must satisfy accessibility requirements, work in both light and dark modes, support high-contrast preferences, and remain meaningful for users with color blindness or low vision. Trigger when picking text colors, designing for global compliance (WCAG, EAA, ADA), supporting dark mode, or auditing an existing palette for accessibility. Sub-aspect of `color`; read that first.
+description: 'Use this skill when designing color systems that must satisfy accessibility requirements, work in both light and dark modes, support high-contrast preferences, and remain meaningful for users with color blindness or low vision. Trigger when picking text colors, designing for global compliance (WCAG, EAA, ADA), supporting dark mode, or auditing an existing palette for accessibility. Sub-aspect of `color`; read that first.'
 ---
 
 # Color: accessibility and mode support

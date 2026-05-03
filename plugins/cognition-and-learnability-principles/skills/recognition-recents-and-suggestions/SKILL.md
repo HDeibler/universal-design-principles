@@ -1,6 +1,6 @@
 ---
 name: recognition-recents-and-suggestions
-description: Use this skill when designing surfaces that accelerate repeat tasks through recents, frequently-used items, and contextual suggestions. Trigger when designing pickers used repeatedly, command palettes, navigation that should adapt to user behavior, or any surface where a returning user shouldn't have to retype their frequent destinations. Sub-aspect of `recognition-over-recall`; read that first.
+description: 'Use this skill when designing surfaces that accelerate repeat tasks through recents, frequently-used items, and contextual suggestions. Trigger when designing pickers used repeatedly, command palettes, navigation that should adapt to user behavior, or any surface where a returning user shouldn''t have to retype their frequent destinations. Sub-aspect of `recognition-over-recall`; read that first.'
 ---
 
 # Recents, frequents, and contextual suggestions

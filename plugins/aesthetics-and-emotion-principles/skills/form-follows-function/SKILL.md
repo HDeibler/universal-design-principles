@@ -1,6 +1,6 @@
 ---
 name: form-follows-function
-description: Use this skill when designing the visual or aesthetic layer of a product, deciding between expressive style and functional restraint, evaluating decorative elements, or arguing about whether a feature should ship plain vs. polished. Trigger when stakeholders ask "should we add visual flair to this?", when reviewing a design that "feels too decorated," or when picking between competing visual directions. Form Follows Function is one of the foundational principles in 'Universal Principles of Design' (Lidwell, Holden, Butler 2003) and one of the most-quoted dictums in design — but its meaning depends on which interpretation (descriptive vs. prescriptive) you take.
+description: 'Use this skill when designing the visual or aesthetic layer of a product, deciding between expressive style and functional restraint, evaluating decorative elements, or arguing about whether a feature should ship plain vs. polished. Trigger when stakeholders ask "should we add visual flair to this?", when reviewing a design that "feels too decorated," or when picking between competing visual directions. Form Follows Function is one of the foundational principles in ''Universal Principles of Design'' (Lidwell, Holden, Butler 2003) and one of the most-quoted dictums in design — but its meaning depends on which interpretation (descriptive vs. prescriptive) you take.'
 ---
 
 # Form Follows Function

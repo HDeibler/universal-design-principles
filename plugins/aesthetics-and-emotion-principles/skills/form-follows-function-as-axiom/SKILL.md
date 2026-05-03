@@ -1,6 +1,6 @@
 ---
 name: form-follows-function-as-axiom
-description: Use this skill when applying the descriptive form-follows-function interpretation — functional clarity as a source of aesthetic quality. Trigger when designing tools, dashboards, or instrumental surfaces where every element should earn its presence. Sub-aspect of `form-follows-function`; read that first.
+description: 'Use this skill when applying the descriptive form-follows-function interpretation — functional clarity as a source of aesthetic quality. Trigger when designing tools, dashboards, or instrumental surfaces where every element should earn its presence. Sub-aspect of `form-follows-function`; read that first.'
 ---
 
 # Form follows function as descriptive axiom

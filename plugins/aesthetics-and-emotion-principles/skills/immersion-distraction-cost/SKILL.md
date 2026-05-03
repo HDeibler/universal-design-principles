@@ -1,6 +1,6 @@
 ---
 name: immersion-distraction-cost
-description: Recognize and design against the cost of attention fragmentation — the disproportionate damage that even small interruptions do to focused work. Use when designing notification systems, evaluating whether a feature should interrupt the user, planning feature introductions, or auditing a product for unintended attention costs. The cost of breaking immersion is much higher than designers usually estimate; restraint in interruption is one of the most user-respectful design moves.
+description: 'Recognize and design against the cost of attention fragmentation — the disproportionate damage that even small interruptions do to focused work. Use when designing notification systems, evaluating whether a feature should interrupt the user, planning feature introductions, or auditing a product for unintended attention costs. The cost of breaking immersion is much higher than designers usually estimate; restraint in interruption is one of the most user-respectful design moves.'
 ---
 
 # Immersion — distraction cost

@@ -1,6 +1,6 @@
 ---
 name: figure-ground-relationship
-description: Apply the Gestalt principle of Figure-Ground Relationship — the perceptual separation of what's perceived as the figure (the focus, the object) from the ground (the surrounding context). Use when designing modals, overlays, focus states, hero elements, hover treatments, layered interfaces, or any context where one element should clearly stand forward against everything else. The user's perception always sorts the visual field into figure and ground; designs that reinforce the desired sorting feel clear, while designs that fight it feel confusing.
+description: 'Apply the Gestalt principle of Figure-Ground Relationship — the perceptual separation of what''s perceived as the figure (the focus, the object) from the ground (the surrounding context). Use when designing modals, overlays, focus states, hero elements, hover treatments, layered interfaces, or any context where one element should clearly stand forward against everything else. The user''s perception always sorts the visual field into figure and ground; designs that reinforce the desired sorting feel clear, while designs that fight it feel confusing.'
 ---
 
 # Figure-Ground Relationship

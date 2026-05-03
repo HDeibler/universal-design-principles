@@ -1,6 +1,6 @@
 ---
 name: weakest-link-identification
-description: Apply methods for finding the weakest link in a workflow, system, or feature set. Use when planning a redesign, prioritizing engineering or design investment, auditing a product for quality issues, or beginning any improvement effort. Several methods exist (funnel analysis, journey mapping, failure-mode enumeration, support-pattern review, direct user observation); each surfaces different kinds of weakness, and combining them gives the clearest picture.
+description: 'Apply methods for finding the weakest link in a workflow, system, or feature set. Use when planning a redesign, prioritizing engineering or design investment, auditing a product for quality issues, or beginning any improvement effort. Several methods exist (funnel analysis, journey mapping, failure-mode enumeration, support-pattern review, direct user observation); each surfaces different kinds of weakness, and combining them gives the clearest picture.'
 ---
 
 # Weakest Link — identification

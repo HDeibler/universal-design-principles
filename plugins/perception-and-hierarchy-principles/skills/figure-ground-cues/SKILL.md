@@ -1,6 +1,6 @@
 ---
 name: figure-ground-cues
-description: Apply specific visual cues to control figure-ground perception — shadow, elevation, scale, contrast, saturation, opacity, and texture. Use when designing layered interfaces, focus states, hover treatments, or any context where one element should clearly stand forward against others. Each cue contributes a portion of the figure-ground signal; combining cues strengthens the effect. The skill is selecting and calibrating cues for the desired level of separation.
+description: 'Apply specific visual cues to control figure-ground perception — shadow, elevation, scale, contrast, saturation, opacity, and texture. Use when designing layered interfaces, focus states, hover treatments, or any context where one element should clearly stand forward against others. Each cue contributes a portion of the figure-ground signal; combining cues strengthens the effect. The skill is selecting and calibrating cues for the desired level of separation.'
 ---
 
 # Figure-Ground — visual cues

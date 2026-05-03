@@ -1,6 +1,6 @@
 ---
 name: interaction-router
-description: Use this skill whenever a design task involves what users *can do* and what happens when they do it — affordances, feedback, errors, undo, confirmation, target sizing, keyboard handling, modal vs. non-modal decisions, destructive actions, validation. Trigger when the user mentions buttons, forms, validation, error states, loading states, drag-and-drop, undo, confirmation dialogs, keyboard shortcuts, target sizes, "users keep deleting things," misclicks, or "should this be a popover or a dialog." Framework-agnostic. Routes the model to the right interaction principle in this plugin.
+description: 'Use this skill whenever a design task involves what users *can do* and what happens when they do it — affordances, feedback, errors, undo, confirmation, target sizing, keyboard handling, modal vs. non-modal decisions, destructive actions, validation. Trigger when the user mentions buttons, forms, validation, error states, loading states, drag-and-drop, undo, confirmation dialogs, keyboard shortcuts, target sizes, "users keep deleting things," misclicks, or "should this be a popover or a dialog." Framework-agnostic. Routes the model to the right interaction principle in this plugin.'
 ---
 
 # Interaction & control — router

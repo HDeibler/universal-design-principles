@@ -1,6 +1,6 @@
 ---
 name: accessibility-robust
-description: Use this skill when the question is whether assistive technologies — screen readers, voice control, switch devices, refreshable braille displays — can reliably interpret your UI. Trigger when picking between semantic HTML and a custom-built component, when reaching for ARIA, when designing live regions for dynamic content (toasts, validation, search results), or when reviewing a UI built largely from `<div>` elements. Covers WCAG Principle 4 (Robust). Sub-aspect of `accessibility`; read that first if you haven't already.
+description: 'Use this skill when the question is whether assistive technologies — screen readers, voice control, switch devices, refreshable braille displays — can reliably interpret your UI. Trigger when picking between semantic HTML and a custom-built component, when reaching for ARIA, when designing live regions for dynamic content (toasts, validation, search results), or when reviewing a UI built largely from `<div>` elements. Covers WCAG Principle 4 (Robust). Sub-aspect of `accessibility`; read that first if you haven''t already.'
 ---
 
 # Accessibility — Robust

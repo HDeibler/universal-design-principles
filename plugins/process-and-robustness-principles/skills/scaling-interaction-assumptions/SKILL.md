@@ -1,6 +1,6 @@
 ---
 name: scaling-interaction-assumptions
-description: Verify and design for user-base scaling — broader audiences, more diverse use cases, more edge cases, behaviors that weren't anticipated. Use when launching to a new market, scaling from beta to GA, expanding from one team to a company, or any context where the user population is growing or changing. Interaction scaling is often harder than load scaling because it surfaces design assumptions that worked for the original audience but fail for a broader one.
+description: 'Verify and design for user-base scaling — broader audiences, more diverse use cases, more edge cases, behaviors that weren''t anticipated. Use when launching to a new market, scaling from beta to GA, expanding from one team to a company, or any context where the user population is growing or changing. Interaction scaling is often harder than load scaling because it surfaces design assumptions that worked for the original audience but fail for a broader one.'
 ---
 
 # Scaling — interaction assumptions

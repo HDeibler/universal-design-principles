@@ -1,6 +1,6 @@
 ---
 name: progressive-disclosure-disclosure-affordances
-description: Use this skill when picking the *mechanism* for revealing tucked content — accordion vs. modal vs. tab vs. separate page vs. tooltip. Trigger when designing the UI for "More options," picking between an inline accordion and a side sheet, deciding whether a wizard step should be a modal or a separate page, or reviewing whether existing disclosure affordances are doing their job. Sub-aspect of `progressive-disclosure`; read that first.
+description: 'Use this skill when picking the *mechanism* for revealing tucked content — accordion vs. modal vs. tab vs. separate page vs. tooltip. Trigger when designing the UI for "More options," picking between an inline accordion and a side sheet, deciding whether a wizard step should be a modal or a separate page, or reviewing whether existing disclosure affordances are doing their job. Sub-aspect of `progressive-disclosure`; read that first.'
 ---
 
 # Progressive disclosure: choosing the affordance

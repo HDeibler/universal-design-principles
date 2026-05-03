@@ -1,6 +1,6 @@
 ---
 name: prototyping-when-and-what
-description: Use this skill when deciding what to prototype, what fidelity to use, and when to stop prototyping and ship. Trigger when planning research, scoping a design phase, or facing pressure to "stop prototyping and just build it." Sub-aspect of `prototyping`; read that first.
+description: 'Use this skill when deciding what to prototype, what fidelity to use, and when to stop prototyping and ship. Trigger when planning research, scoping a design phase, or facing pressure to "stop prototyping and just build it." Sub-aspect of `prototyping`; read that first.'
 ---
 
 # Picking what and when to prototype

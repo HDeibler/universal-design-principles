@@ -1,6 +1,6 @@
 ---
 name: hierarchy-spatial
-description: Use this skill when constructing visual hierarchy through layout, position, size, and whitespace — not type, not color. Trigger when laying out a page or section and deciding what gets the dominant region, where to place the focal element, how much breathing room to give it, and how secondary elements should arrange around it. Trigger when reviewing a layout that "feels cramped" or "feels lost," when a hero's CTA is competing with surrounding content, or when a dashboard's primary KPI is the same size as everything else. Sub-aspect of the broader `hierarchy` principle; read that first if you haven't already.
+description: 'Use this skill when constructing visual hierarchy through layout, position, size, and whitespace — not type, not color. Trigger when laying out a page or section and deciding what gets the dominant region, where to place the focal element, how much breathing room to give it, and how secondary elements should arrange around it. Trigger when reviewing a layout that "feels cramped" or "feels lost," when a hero''s CTA is competing with surrounding content, or when a dashboard''s primary KPI is the same size as everything else. Sub-aspect of the broader `hierarchy` principle; read that first if you haven''t already.'
 ---
 
 # Hierarchy through space

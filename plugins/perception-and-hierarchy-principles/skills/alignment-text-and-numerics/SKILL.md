@@ -1,6 +1,6 @@
 ---
 name: alignment-text-and-numerics
-description: Use this skill when designing text-alignment and numeric-alignment decisions — choosing between left, right, center, and justified text; right-aligning numeric columns in tables; aligning labels relative to inputs; handling decimal alignment for currency. Trigger when laying out body content, designing tables with mixed types, or fixing alignment issues in dense data displays. Sub-aspect of `alignment`; read that first.
+description: 'Use this skill when designing text-alignment and numeric-alignment decisions — choosing between left, right, center, and justified text; right-aligning numeric columns in tables; aligning labels relative to inputs; handling decimal alignment for currency. Trigger when laying out body content, designing tables with mixed types, or fixing alignment issues in dense data displays. Sub-aspect of `alignment`; read that first.'
 ---
 
 # Text and numeric alignment

@@ -1,6 +1,6 @@
 ---
 name: hicks-law-defaults
-description: Use this skill when the question is what to *pre-select* in a list of options — radio groups, dropdowns, configuration UIs, plan pickers, sign-up flows, settings. A strong default is the highest-leverage Hick's Law mitigation: most users accept the default, paying almost no decision cost. Trigger when picking what's selected on first load, when stakeholders argue "shouldn't we let the user choose?", when designing wizards or onboarding, or when a UI has many options but most users want the same one. Sub-aspect of `hicks-law`; read that first if you haven't already.
+description: 'Use this skill when the question is what to *pre-select* in a list of options — radio groups, dropdowns, configuration UIs, plan pickers, sign-up flows, settings. A strong default is the highest-leverage Hick''s Law mitigation: most users accept the default, paying almost no decision cost. Trigger when picking what''s selected on first load, when stakeholders argue "shouldn''t we let the user choose?", when designing wizards or onboarding, or when a UI has many options but most users want the same one. Sub-aspect of `hicks-law`; read that first if you haven''t already.'
 ---
 
 # Hick's Law: defaults as the primary mitigation

@@ -9,12 +9,27 @@
   "homepage": "https://github.com/HDeibler/universal-design-principles",
   "repository": "https://github.com/HDeibler/universal-design-principles",
   "license": "MIT",
-  "keywords": ["design", "ux", "accessibility", "wcag", "iteration", "prototyping", "process", "robustness"],
+  "keywords": [
+    "design",
+    "ux",
+    "accessibility",
+    "wcag",
+    "iteration",
+    "prototyping",
+    "process",
+    "robustness"
+  ],
   "skills": "./skills/",
   "interface": {
     "displayName": "Process & Robustness Principles",
     "shortDescription": "Accessibility, iteration, prototyping, reliability, and pruning.",
     "developerName": "Hunter D",
-    "category": "Design"
+    "category": "Design",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "longDescription": "Framework-agnostic design principles for design process, accessibility, iteration, and robustness against edge cases. Covers Accessibility, Iteration, Factor of Safety, Prototyping, Weakest Link, Scaling Fallacy, and Ockham's Razor.",
+    "websiteURL": "https://github.com/HDeibler/universal-design-principles"
   }
 }

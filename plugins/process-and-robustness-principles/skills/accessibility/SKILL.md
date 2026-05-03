@@ -1,6 +1,6 @@
 ---
 name: accessibility
-description: Use this skill on every design task that produces a user-facing surface. Trigger on every screen, component, prototype, or design review — accessibility isn't a phase, it's a property each surface either has or doesn't. Trigger when the user mentions accessibility, a11y, WCAG, screen readers, keyboard navigation, contrast, motion sensitivity, ARIA, color blindness, "section 508," "EAA," or compliance. Also trigger when the user is *not* asking about accessibility — because most of the highest-impact accessibility decisions are made silently when no one was asking. Routes to sub-aspect skills for the four WCAG sub-principles: perceivable, operable, understandable, robust.
+description: 'Use this skill on every design task that produces a user-facing surface. Trigger on every screen, component, prototype, or design review — accessibility isn''t a phase, it''s a property each surface either has or doesn''t. Trigger when the user mentions accessibility, a11y, WCAG, screen readers, keyboard navigation, contrast, motion sensitivity, ARIA, color blindness, "section 508," "EAA," or compliance. Also trigger when the user is *not* asking about accessibility — because most of the highest-impact accessibility decisions are made silently when no one was asking. Routes to sub-aspect skills for the four WCAG sub-principles: perceivable, operable, understandable, robust.'
 ---
 
 # Accessibility

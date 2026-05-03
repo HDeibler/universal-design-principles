@@ -1,6 +1,6 @@
 ---
 name: archetypes
-description: Use this skill when designing brand voice, marketing positioning, mascot or character design, narrative arcs in product onboarding, or any expressive surface where the design must communicate personality. Trigger when picking how a brand "feels" (rebellious, nurturing, sage-like), when designing storytelling for marketing, or when reviewing why a brand voice feels generic. Archetypes is one of the foundational principles in 'Universal Principles of Design' (Lidwell, Holden, Butler 2003), grounded in Jung's analytical psychology and widely applied in branding, storytelling, and product personality.
+description: 'Use this skill when designing brand voice, marketing positioning, mascot or character design, narrative arcs in product onboarding, or any expressive surface where the design must communicate personality. Trigger when picking how a brand "feels" (rebellious, nurturing, sage-like), when designing storytelling for marketing, or when reviewing why a brand voice feels generic. Archetypes is one of the foundational principles in ''Universal Principles of Design'' (Lidwell, Holden, Butler 2003), grounded in Jung''s analytical psychology and widely applied in branding, storytelling, and product personality.'
 ---
 
 # Archetypes

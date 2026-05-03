@@ -1,6 +1,6 @@
 ---
 name: weakest-link
-description: Apply the principle of the Weakest Link — a system's reliability is determined by its least reliable component, not by the average. Use when designing critical-path workflows, evaluating dependencies for risk, deciding where to invest in robustness, auditing onboarding or checkout flows for the step most likely to fail. The user's experience of the product is dominated by its worst step. Improving the average without improving the weakest step often doesn't improve the experience at all.
+description: 'Apply the principle of the Weakest Link — a system''s reliability is determined by its least reliable component, not by the average. Use when designing critical-path workflows, evaluating dependencies for risk, deciding where to invest in robustness, auditing onboarding or checkout flows for the step most likely to fail. The user''s experience of the product is dominated by its worst step. Improving the average without improving the weakest step often doesn''t improve the experience at all.'
 ---
 
 # Weakest Link

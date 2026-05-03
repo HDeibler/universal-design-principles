@@ -1,6 +1,6 @@
 ---
 name: iconic-representation
-description: Apply iconic representation — using simplified visual symbols to communicate function, status, or category at a glance. Use when designing icon sets, choosing between icon and text labels, evaluating whether to lean on existing iconography (resemblance to a known object) or invent symbolic icons (arbitrary forms with assigned meanings), or auditing whether your icons are actually communicating. Three kinds: similar (icons that look like what they represent), example (icons that depict an object associated with the function), and arbitrary/symbolic (forms with no inherent meaning, like the hamburger menu).
+description: 'Apply iconic representation — using simplified visual symbols to communicate function, status, or category at a glance. Use when designing icon sets, choosing between icon and text labels, evaluating whether to lean on existing iconography (resemblance to a known object) or invent symbolic icons (arbitrary forms with assigned meanings), or auditing whether your icons are actually communicating. Three kinds: similar (icons that look like what they represent), example (icons that depict an object associated with the function), and arbitrary/symbolic (forms with no inherent meaning, like the hamburger menu).'
 ---
 
 # Iconic Representation

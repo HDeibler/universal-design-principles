@@ -1,6 +1,6 @@
 ---
 name: aesthetic-usability-effect
-description: Use this skill when the design's perceived quality affects whether users will tolerate friction, give the product a chance, or judge it as well-made — which is most consumer-facing surfaces, marketing, onboarding, first-run, and any moment where an unfamiliar user is forming a quick judgment. Trigger when designing landing pages, sign-up flows, first-time UX, app store screenshots, demo videos, sales decks, or any surface where the user's first impression matters and friction is unavoidable. Also trigger when defending why "polish" matters on a working product, or when the user asks "should we ship the spartan version or invest in design?"
+description: 'Use this skill when the design''s perceived quality affects whether users will tolerate friction, give the product a chance, or judge it as well-made — which is most consumer-facing surfaces, marketing, onboarding, first-run, and any moment where an unfamiliar user is forming a quick judgment. Trigger when designing landing pages, sign-up flows, first-time UX, app store screenshots, demo videos, sales decks, or any surface where the user''s first impression matters and friction is unavoidable. Also trigger when defending why "polish" matters on a working product, or when the user asks "should we ship the spartan version or invest in design?"'
 ---
 
 # Aesthetic-Usability Effect

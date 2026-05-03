@@ -1,6 +1,6 @@
 ---
 name: 80-20-feature-prioritization
-description: Use this skill when scoping a roadmap, prioritizing features, planning an MVP, or deciding what to ship and what to defer. Trigger when the user asks "what should we build next?", "is this feature worth it?", "should we ship feature X?", or when reviewing a feature backlog. Sub-aspect of `80-20-rule`; read that first.
+description: 'Use this skill when scoping a roadmap, prioritizing features, planning an MVP, or deciding what to ship and what to defer. Trigger when the user asks "what should we build next?", "is this feature worth it?", "should we ship feature X?", or when reviewing a feature backlog. Sub-aspect of `80-20-rule`; read that first.'
 ---
 
 # 80/20 in feature prioritization

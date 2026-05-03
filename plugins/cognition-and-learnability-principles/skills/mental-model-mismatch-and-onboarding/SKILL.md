@@ -1,6 +1,6 @@
 ---
 name: mental-model-mismatch-and-onboarding
-description: Use this skill when designing onboarding, when diagnosing why users keep getting confused, when migrating users from one product convention to another, or when the system genuinely differs from familiar comparable products. Trigger when the user mentions "users don't get it," "we keep getting the same support tickets," or "this is a new pattern they need to learn." Sub-aspect of `mental-model`; read that first.
+description: 'Use this skill when designing onboarding, when diagnosing why users keep getting confused, when migrating users from one product convention to another, or when the system genuinely differs from familiar comparable products. Trigger when the user mentions "users don''t get it," "we keep getting the same support tickets," or "this is a new pattern they need to learn." Sub-aspect of `mental-model`; read that first.'
 ---
 
 # Mental-model mismatches and onboarding

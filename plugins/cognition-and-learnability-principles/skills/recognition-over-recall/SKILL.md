@@ -1,6 +1,6 @@
 ---
 name: recognition-over-recall
-description: Use this skill whenever the user must locate or choose something from many possibilities — pickers, command palettes, navigation menus, autocompletes, recents lists, search results, settings panels. Trigger when designing inputs that ask the user to "type the right thing," when picking between dropdowns and search-first interfaces, when reviewing why users keep typing wrong values into autocomplete fields. Recognition Over Recall is one of the foundational principles in 'Universal Principles of Design' (Lidwell, Holden, Butler 2003) and one of Nielsen's 10 heuristics — recognizing options is far easier than recalling them from memory.
+description: 'Use this skill whenever the user must locate or choose something from many possibilities — pickers, command palettes, navigation menus, autocompletes, recents lists, search results, settings panels. Trigger when designing inputs that ask the user to "type the right thing," when picking between dropdowns and search-first interfaces, when reviewing why users keep typing wrong values into autocomplete fields. Recognition Over Recall is one of the foundational principles in ''Universal Principles of Design'' (Lidwell, Holden, Butler 2003) and one of Nielsen''s 10 heuristics — recognizing options is far easier than recalling them from memory.'
 ---
 
 # Recognition Over Recall

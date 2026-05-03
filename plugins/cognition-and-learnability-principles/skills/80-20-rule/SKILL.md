@@ -1,6 +1,6 @@
 ---
 name: 80-20-rule
-description: Use this skill whenever the design has many features, controls, or content elements and decisions about which to prioritize matter — feature roadmaps, redesign scoping, IA decisions, dashboard design, settings page audits, marketing content prioritization, or any design with many candidates competing for attention. Trigger when the user asks "what should we focus on?", "should we add another feature?", "what can we cut?", or when reviewing a UI cluttered with rarely-used controls. The 80/20 rule (Pareto principle) is one of the foundational principles in 'Universal Principles of Design' (Lidwell, Holden, Butler 2003) and one of the most quoted across design, business, and engineering.
+description: 'Use this skill whenever the design has many features, controls, or content elements and decisions about which to prioritize matter — feature roadmaps, redesign scoping, IA decisions, dashboard design, settings page audits, marketing content prioritization, or any design with many candidates competing for attention. Trigger when the user asks "what should we focus on?", "should we add another feature?", "what can we cut?", or when reviewing a UI cluttered with rarely-used controls. The 80/20 rule (Pareto principle) is one of the foundational principles in ''Universal Principles of Design'' (Lidwell, Holden, Butler 2003) and one of the most quoted across design, business, and engineering.'
 ---
 
 # The 80/20 Rule

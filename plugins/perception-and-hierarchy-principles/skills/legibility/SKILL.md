@@ -1,6 +1,6 @@
 ---
 name: legibility
-description: Apply the principle of Legibility — the visual clarity of individual characters and short phrases, determined by typeface, size, weight, contrast, and spacing. Use when picking type for UI elements (buttons, labels, navigation), evaluating typography against rendering conditions (small sizes, low-contrast displays, distance viewing), choosing display vs. body type, or auditing accessibility. Legibility is the precondition for reading; if a user can't quickly distinguish "I" from "1" or "O" from "0," everything downstream from text fails. Distinct from readability, which is about sustained reading of prose.
+description: 'Apply the principle of Legibility — the visual clarity of individual characters and short phrases, determined by typeface, size, weight, contrast, and spacing. Use when picking type for UI elements (buttons, labels, navigation), evaluating typography against rendering conditions (small sizes, low-contrast displays, distance viewing), choosing display vs. body type, or auditing accessibility. Legibility is the precondition for reading; if a user can''t quickly distinguish "I" from "1" or "O" from "0," everything downstream from text fails. Distinct from readability, which is about sustained reading of prose.'
 ---
 
 # Legibility

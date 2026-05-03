@@ -1,6 +1,6 @@
 ---
 name: similarity-and-contrast
-description: Apply deliberate dissimilarity (contrast) to distinguish elements that need to be perceived as different — primary vs. secondary actions, normal vs. error states, foreground vs. background, the one important thing vs. the rest. Use when you want to emphasize a single element, distinguish roles, or break up a too-uniform layout. Contrast is similarity's complement: similarity groups, contrast separates. The skill is calibrating contrast so it communicates what matters without creating visual chaos.
+description: 'Apply deliberate dissimilarity (contrast) to distinguish elements that need to be perceived as different — primary vs. secondary actions, normal vs. error states, foreground vs. background, the one important thing vs. the rest. Use when you want to emphasize a single element, distinguish roles, or break up a too-uniform layout. Contrast is similarity''s complement: similarity groups, contrast separates. The skill is calibrating contrast so it communicates what matters without creating visual chaos.'
 ---
 
 # Similarity and contrast

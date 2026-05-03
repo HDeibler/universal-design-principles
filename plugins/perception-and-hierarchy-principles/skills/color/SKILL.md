@@ -1,6 +1,6 @@
 ---
 name: color
-description: Use this skill whenever color decisions matter — picking the brand primary, defining a neutral ramp, designing status semantics (success/warning/error), choosing chart palettes, selecting accent hues, supporting dark mode, ensuring colorblind-safe contrast, or auditing an existing UI for color noise. Trigger when stakeholders argue about palette, when WCAG contrast is in scope, when designing for global audiences (where color symbolism varies), or when a UI feels "too colorful" or "too monochrome." Color is one of the foundational principles in 'Universal Principles of Design' (Lidwell, Holden, Butler 2003).
+description: 'Use this skill whenever color decisions matter — picking the brand primary, defining a neutral ramp, designing status semantics (success/warning/error), choosing chart palettes, selecting accent hues, supporting dark mode, ensuring colorblind-safe contrast, or auditing an existing UI for color noise. Trigger when stakeholders argue about palette, when WCAG contrast is in scope, when designing for global audiences (where color symbolism varies), or when a UI feels "too colorful" or "too monochrome." Color is one of the foundational principles in ''Universal Principles of Design'' (Lidwell, Holden, Butler 2003).'
 ---
 
 # Color

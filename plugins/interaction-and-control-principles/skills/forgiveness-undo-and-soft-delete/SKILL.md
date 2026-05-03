@@ -1,6 +1,6 @@
 ---
 name: forgiveness-undo-and-soft-delete
-description: Use this skill when designing reversibility — undo systems, soft delete, archive-with-recovery, version history, "Undo Send" patterns, and any mechanism that lets a user step back from an action they regret. Trigger when designing destructive actions you want to be safe rather than friction-heavy, when picking between confirmation dialogs and undo toasts, when defining recovery windows, or when planning version-history features. Sub-aspect of `forgiveness`; read that first.
+description: 'Use this skill when designing reversibility — undo systems, soft delete, archive-with-recovery, version history, "Undo Send" patterns, and any mechanism that lets a user step back from an action they regret. Trigger when designing destructive actions you want to be safe rather than friction-heavy, when picking between confirmation dialogs and undo toasts, when defining recovery windows, or when planning version-history features. Sub-aspect of `forgiveness`; read that first.'
 ---
 
 # Forgiveness through reversibility

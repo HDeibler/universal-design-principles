@@ -1,6 +1,6 @@
 ---
 name: feedback-loop-positive-vs-negative
-description: Use this skill when designing system architecture or product mechanics that involve feedback loops at a higher level than UI state — recommendation engines, gamification, growth mechanics, engagement systems, or any system where one user action affects subsequent actions in compounding or stabilizing ways. Trigger when designing growth loops, retention features, or system dynamics; when reviewing a feature for unintended consequences; when discussing engagement vs. wellbeing tradeoffs. Sub-aspect of `feedback-loop`; read that first.
+description: 'Use this skill when designing system architecture or product mechanics that involve feedback loops at a higher level than UI state — recommendation engines, gamification, growth mechanics, engagement systems, or any system where one user action affects subsequent actions in compounding or stabilizing ways. Trigger when designing growth loops, retention features, or system dynamics; when reviewing a feature for unintended consequences; when discussing engagement vs. wellbeing tradeoffs. Sub-aspect of `feedback-loop`; read that first.'
 ---
 
 # Positive vs. negative feedback loops

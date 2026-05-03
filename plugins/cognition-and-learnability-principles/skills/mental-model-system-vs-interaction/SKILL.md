@@ -1,6 +1,6 @@
 ---
 name: mental-model-system-vs-interaction
-description: Use this skill when distinguishing the two mental-model types — system models (how the user thinks the system works) and interaction models (how the user thinks they should use it). Trigger when designing onboarding (which model to teach), reviewing user confusion (which model is wrong), or building documentation (which model to explain). Sub-aspect of `mental-model`; read that first.
+description: 'Use this skill when distinguishing the two mental-model types — system models (how the user thinks the system works) and interaction models (how the user thinks they should use it). Trigger when designing onboarding (which model to teach), reviewing user confusion (which model is wrong), or building documentation (which model to explain). Sub-aspect of `mental-model`; read that first.'
 ---
 
 # System models vs. interaction models

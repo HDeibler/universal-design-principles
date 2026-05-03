@@ -1,6 +1,6 @@
 ---
 name: alignment
-description: Use this skill whenever the design has more than one element on the page — every layout, every form, every table, every page header, every card. Trigger when designing a layout, picking a grid, fixing a UI that "looks off," debating left vs. center alignment for body text, or auditing why a design feels disorderly. Alignment is one of the most foundational principles in 'Universal Principles of Design' (Lidwell, Holden, Butler 2003) — every visible element's edge or center should fall on a shared axis with at least one other element. Misalignment by even a few pixels reads as disorder.
+description: 'Use this skill whenever the design has more than one element on the page — every layout, every form, every table, every page header, every card. Trigger when designing a layout, picking a grid, fixing a UI that "looks off," debating left vs. center alignment for body text, or auditing why a design feels disorderly. Alignment is one of the most foundational principles in ''Universal Principles of Design'' (Lidwell, Holden, Butler 2003) — every visible element''s edge or center should fall on a shared axis with at least one other element. Misalignment by even a few pixels reads as disorder.'
 ---
 
 # Alignment

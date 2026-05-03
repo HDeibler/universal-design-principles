@@ -1,6 +1,6 @@
 ---
 name: mapping-natural
-description: Apply natural mapping — the strongest form of mapping, in which the spatial position, motion, or shape of a control directly corresponds to what it affects. Use when designing physical control panels, in-screen controls that affect specific regions of a UI, chart legends, multi-target remote controls, vehicle dashboards, or any situation where the user must connect "this control" to "that affected thing." A natural mapping is one a first-time user can predict without instruction. When the form factor allows it, natural mapping is essentially free correctness.
+description: 'Apply natural mapping — the strongest form of mapping, in which the spatial position, motion, or shape of a control directly corresponds to what it affects. Use when designing physical control panels, in-screen controls that affect specific regions of a UI, chart legends, multi-target remote controls, vehicle dashboards, or any situation where the user must connect "this control" to "that affected thing." A natural mapping is one a first-time user can predict without instruction. When the form factor allows it, natural mapping is essentially free correctness.'
 ---
 
 # Mapping — natural (spatial and physical)

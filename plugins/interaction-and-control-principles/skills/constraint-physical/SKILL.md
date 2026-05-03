@@ -1,6 +1,6 @@
 ---
 name: constraint-physical
-description: Use this skill when designing structural constraints that prevent invalid actions through the shape, layout, or behavior of the design itself — paths (channels of motion), axes (rotary controls), barriers (blocks). Trigger when designing input controls, drag-and-drop affordances, modal dialogs, or hardware-style structural prevention. Sub-aspect of `constraint`; read that first.
+description: 'Use this skill when designing structural constraints that prevent invalid actions through the shape, layout, or behavior of the design itself — paths (channels of motion), axes (rotary controls), barriers (blocks). Trigger when designing input controls, drag-and-drop affordances, modal dialogs, or hardware-style structural prevention. Sub-aspect of `constraint`; read that first.'
 ---
 
 # Physical constraints

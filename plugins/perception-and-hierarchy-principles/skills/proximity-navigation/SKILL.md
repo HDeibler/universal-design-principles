@@ -1,6 +1,6 @@
 ---
 name: proximity-navigation
-description: Use this skill when designing or fixing navigation — sidebars, top nav, footer nav, mobile menus, breadcrumbs, tab bars, command palette groupings. Trigger when grouping related links, deciding when to add section dividers, fixing a sidebar where every link feels like a separate item, or designing a mobile bottom-nav with multiple action groups. Sub-aspect of `proximity`; read that first if you haven't already.
+description: 'Use this skill when designing or fixing navigation — sidebars, top nav, footer nav, mobile menus, breadcrumbs, tab bars, command palette groupings. Trigger when grouping related links, deciding when to add section dividers, fixing a sidebar where every link feels like a separate item, or designing a mobile bottom-nav with multiple action groups. Sub-aspect of `proximity`; read that first if you haven''t already.'
 ---
 
 # Proximity in navigation

@@ -1,6 +1,6 @@
 ---
 name: hierarchy-typographic
-description: Use this skill when the question is specifically about how to construct visual hierarchy through typography — picking a type scale, ladders of weight, line-height steps, and the relationships between display, heading, body, and caption type. Trigger when designing type systems, choosing fonts, picking heading sizes, defining a design system's typographic tokens, fixing a "no clear focal point in the headline area" issue, or reviewing why a long-form page feels like a wall of text. Sub-aspect of the broader `hierarchy` principle; read that first if you haven't already.
+description: 'Use this skill when the question is specifically about how to construct visual hierarchy through typography — picking a type scale, ladders of weight, line-height steps, and the relationships between display, heading, body, and caption type. Trigger when designing type systems, choosing fonts, picking heading sizes, defining a design system''s typographic tokens, fixing a "no clear focal point in the headline area" issue, or reviewing why a long-form page feels like a wall of text. Sub-aspect of the broader `hierarchy` principle; read that first if you haven''t already.'
 ---
 
 # Hierarchy through typography

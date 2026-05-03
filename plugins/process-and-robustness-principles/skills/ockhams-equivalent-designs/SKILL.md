@@ -1,6 +1,6 @@
 ---
 name: ockhams-equivalent-designs
-description: Identify when two design options are functionally equivalent so the razor can be applied. Use when comparing design alternatives, evaluating whether two implementations of a feature actually produce the same outcome, or recognizing that a complex solution doesn't earn its place against a simpler one. Most design debates involve actual tradeoffs; the razor only cuts when the alternatives genuinely produce equivalent results. The skill is identifying equivalence honestly rather than rationalizing complexity.
+description: 'Identify when two design options are functionally equivalent so the razor can be applied. Use when comparing design alternatives, evaluating whether two implementations of a feature actually produce the same outcome, or recognizing that a complex solution doesn''t earn its place against a simpler one. Most design debates involve actual tradeoffs; the razor only cuts when the alternatives genuinely produce equivalent results. The skill is identifying equivalence honestly rather than rationalizing complexity.'
 ---
 
 # Ockham's Razor — equivalent designs

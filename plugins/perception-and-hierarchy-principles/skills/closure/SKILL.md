@@ -1,6 +1,6 @@
 ---
 name: closure
-description: Apply the Gestalt principle of Closure — the perceptual tendency to see incomplete shapes as whole. Use when designing icons (a few strokes can imply a closed shape), illustrations (negative space defines forms), logos (the IBM stripes, the WWF panda, the FedEx arrow), card layouts (cards don't need full borders to feel like containers), or any visual that benefits from suggested rather than fully drawn shapes. Closure lets you communicate more with less; the user's perception completes the form.
+description: 'Apply the Gestalt principle of Closure — the perceptual tendency to see incomplete shapes as whole. Use when designing icons (a few strokes can imply a closed shape), illustrations (negative space defines forms), logos (the IBM stripes, the WWF panda, the FedEx arrow), card layouts (cards don''t need full borders to feel like containers), or any visual that benefits from suggested rather than fully drawn shapes. Closure lets you communicate more with less; the user''s perception completes the form.'
 ---
 
 # Closure

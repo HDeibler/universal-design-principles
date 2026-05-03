@@ -1,6 +1,6 @@
 ---
 name: gestalt-similarity
-description: Apply the Gestalt principle of Similarity — elements that share visual attributes (color, shape, size, orientation) are perceived as belonging together, regardless of their physical proximity. Use when grouping related items in a list, status indicators, dashboard cards, navigation, or any context where you want the user to perceive certain items as a set. Similarity is one of the strongest grouping cues; it works even when proximity says otherwise. Color is the strongest similarity cue, then size, then shape; orientation is weakest.
+description: 'Apply the Gestalt principle of Similarity — elements that share visual attributes (color, shape, size, orientation) are perceived as belonging together, regardless of their physical proximity. Use when grouping related items in a list, status indicators, dashboard cards, navigation, or any context where you want the user to perceive certain items as a set. Similarity is one of the strongest grouping cues; it works even when proximity says otherwise. Color is the strongest similarity cue, then size, then shape; orientation is weakest.'
 ---
 
 # Gestalt Similarity

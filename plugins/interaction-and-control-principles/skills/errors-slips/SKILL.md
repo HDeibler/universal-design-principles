@@ -1,6 +1,6 @@
 ---
 name: errors-slips
-description: Use this skill when designing to prevent or recover from execution errors — actions that don't match the user's intent. Trigger when designing critical action confirmations, distinct affordances for similar-purpose elements, recovery from wrong-button presses, "I didn't mean to do that" flows. Sub-aspect of `errors`; read that first.
+description: 'Use this skill when designing to prevent or recover from execution errors — actions that don''t match the user''s intent. Trigger when designing critical action confirmations, distinct affordances for similar-purpose elements, recovery from wrong-button presses, "I didn''t mean to do that" flows. Sub-aspect of `errors`; read that first.'
 ---
 
 # Slips: errors of execution

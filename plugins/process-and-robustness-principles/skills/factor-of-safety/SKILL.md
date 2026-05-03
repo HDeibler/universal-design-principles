@@ -1,6 +1,6 @@
 ---
 name: factor-of-safety
-description: Use this skill whenever the design will encounter conditions that can't be fully predicted at design time — load spikes, edge-case content, real-world variability, hardware variation, third-party flakiness, or any "what if" scenario. Trigger when scoping performance budgets, designing for content extremes, picking infrastructure capacity, designing error-handling, or planning for the long tail of users with unusual setups. Factor of Safety is one of the foundational principles in 'Universal Principles of Design' (Lidwell, Holden, Butler 2003) — also called "factor of ignorance" because the size of the safety factor is proportional to how much you *don't* know.
+description: 'Use this skill whenever the design will encounter conditions that can''t be fully predicted at design time — load spikes, edge-case content, real-world variability, hardware variation, third-party flakiness, or any "what if" scenario. Trigger when scoping performance budgets, designing for content extremes, picking infrastructure capacity, designing error-handling, or planning for the long tail of users with unusual setups. Factor of Safety is one of the foundational principles in ''Universal Principles of Design'' (Lidwell, Holden, Butler 2003) — also called "factor of ignorance" because the size of the safety factor is proportional to how much you *don''t* know.'
 ---
 
 # Factor of Safety

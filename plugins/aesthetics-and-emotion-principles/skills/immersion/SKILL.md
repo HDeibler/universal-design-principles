@@ -1,6 +1,6 @@
 ---
 name: immersion
-description: Apply the principle of Immersion — designing for sustained focus and engagement, where the user becomes absorbed in the activity and loses awareness of the surrounding environment. Use when designing for creative work, deep reading, gameplay, learning, or any activity that benefits from extended focused attention. Immersion requires removing distractions, providing clear feedback, calibrating challenge to skill, and respecting the user's flow state. Modern attention-driven products often work against immersion in pursuit of engagement metrics; designs that genuinely serve immersion are increasingly distinctive.
+description: 'Apply the principle of Immersion — designing for sustained focus and engagement, where the user becomes absorbed in the activity and loses awareness of the surrounding environment. Use when designing for creative work, deep reading, gameplay, learning, or any activity that benefits from extended focused attention. Immersion requires removing distractions, providing clear feedback, calibrating challenge to skill, and respecting the user''s flow state. Modern attention-driven products often work against immersion in pursuit of engagement metrics; designs that genuinely serve immersion are increasingly distinctive.'
 ---
 
 # Immersion
