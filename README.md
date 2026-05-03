@@ -80,7 +80,21 @@ Reference: [Claude Code plugins](https://code.claude.com/docs/en/plugins), [Clau
 
 ### Codex
 
-Codex can use this repository as a repo-scoped plugin marketplace because it includes `.agents/plugins/marketplace.json` and each plugin includes `.codex-plugin/plugin.json`.
+Codex can install this repository either as one collection plugin or as five focused plugin bundles.
+
+For the single collection plugin, use the root Codex manifest. This is the best path for directories that expect one plugin per repository:
+
+```bash
+npx codex-marketplace add HDeibler/universal-design-principles --plugin --project
+```
+
+For the five focused plugin bundles, use the repo marketplace:
+
+```bash
+npx codex-marketplace add HDeibler/universal-design-principles --plugins --project
+```
+
+Codex can also use this repository as a repo-scoped plugin marketplace because it includes `.agents/plugins/marketplace.json` and each focused plugin includes `.codex-plugin/plugin.json`.
 
 ```bash
 codex plugin marketplace add HDeibler/universal-design-principles
@@ -261,6 +275,8 @@ For the full architecture, see **[docs/architecture.md](docs/architecture.md)**.
 
 ```
 universal-design-principles/
+├── .codex-plugin/
+│   └── plugin.json                         # Codex root collection plugin manifest
 ├── .agents/
 │   └── plugins/
 │       └── marketplace.json                # Codex marketplace manifest
