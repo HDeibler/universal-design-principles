@@ -6,8 +6,10 @@ This document explains how the marketplace, plugins, skills, and references comp
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│ 1. Marketplace                                                   │
+│ 1. Marketplace manifests                                         │
 │    .claude-plugin/marketplace.json                               │
+│    .cursor-plugin/marketplace.json                               │
+│    .agents/plugins/marketplace.json                              │
 │    Lists every plugin with name, source path, description, tags. │
 └──────────────────────────────────────────────────────────────────┘
                               │
@@ -15,11 +17,12 @@ This document explains how the marketplace, plugins, skills, and references comp
               ▼                               ▼
 ┌──────────────────────────┐    ┌──────────────────────────┐
 │ 2. Plugin                │    │ 2. Plugin                │
-│    perception-and-       │    │    cognition-and-        │
-│    hierarchy-principles/ │    │    learnability-         │
+│    plugins/perception-   │    │    plugins/cognition-    │
+│    and-hierarchy-        │    │    and-learnability-     │
+│    principles/           │    │    principles/           │
 │                          │    │    principles/           │
-│    plugin.json           │    │                          │
-│    README.md             │    │    plugin.json           │
+│    plugin manifests      │    │                          │
+│    README.md             │    │    plugin manifests      │
 │    skills/               │    │    README.md             │
 └──────────────────────────┘    │    skills/               │
               │                 └──────────────────────────┘
@@ -46,15 +49,15 @@ This document explains how the marketplace, plugins, skills, and references comp
 
 Each layer has a specific responsibility:
 
-- **Marketplace** — discovery. The user (or their client) needs to know what plugins exist.
-- **Plugin** — packaging. A coherent group of skills around a theme.
+- **Marketplace manifests** — discovery. The user (or their client) needs to know what plugins exist. Claude, Codex, and Cursor each expect their own manifest location.
+- **Plugin** — packaging. A coherent group of skills around a theme, with parallel per-agent plugin manifests that all point at the same `skills/` directory.
 - **Skill** — capability. A single `SKILL.md` that the agent reads and applies.
 - **References** — depth. Material the agent reads only when the parent skill points to it.
 
 ## How the agent uses each layer
 
-1. **Marketplace** is consulted at install time, not at runtime. Once a plugin is installed, the marketplace manifest is no longer relevant.
-2. **Plugin** is a packaging artifact. The agent doesn't usually distinguish "which plugin a skill came from" — it just sees a flat list of available skills.
+1. **Marketplace manifests** are consulted at install time, not at runtime. Once a plugin is installed, the marketplace manifest is no longer relevant.
+2. **Plugin** is a packaging artifact. The agent may namespace skills by plugin, but the runtime unit is still the skill itself.
 3. **Skills** are the runtime unit. The agent loads available skills' frontmatter (name + description) into its context, then matches user requests to skills, then reads the body of matched skills.
 4. **References** are read on demand. The parent skill body says "for more depth, see `references/foo.md`"; the agent reads the reference if the user's request needs that depth.
 
@@ -179,7 +182,9 @@ A sub-aspect skill follows the same shape but is scoped to the specific applicat
 
 ## Naming conventions
 
-- **Plugins** — `<theme>-and-<theme>-principles/` (plural, hyphenated).
+- **Plugins** — `plugins/<theme>-and-<theme>-principles/` (plural, hyphenated).
+- **Marketplace manifests** — keep agent-specific manifest roots at the repository root: `.claude-plugin/`, `.cursor-plugin/`, and `.agents/plugins/`.
+- **Plugin manifests** — keep agent-specific plugin manifests inside each plugin: `.claude-plugin/plugin.json`, `.codex-plugin/plugin.json`, and `.cursor-plugin/plugin.json`.
 - **Router skills** — `<theme>-router` (e.g., `cognition-router`).
 - **Principle skills** — `<principle-name>` in kebab-case (e.g., `hicks-law`, `figure-ground-relationship`).
 - **Sub-aspect skills** — `<principle-name>-<aspect>` (e.g., `hicks-law-menus`).
@@ -203,14 +208,16 @@ Most principles in this repository have 2 sub-aspects, so a typical principle is
 
 ## Discovery and registration
 
-When Claude starts (or `/plugins reload` is run), it:
+Each agent has its own install surface:
 
-1. Reads each plugin's `.claude-plugin/plugin.json` to learn the plugin's name, description, and metadata.
-2. Walks the plugin's `skills/` directory looking for `SKILL.md` files.
-3. Reads the YAML frontmatter from each `SKILL.md` to learn the skill name and description.
-4. Registers each skill in its routing table.
+1. Claude Code reads `.claude-plugin/marketplace.json` and each plugin's `.claude-plugin/plugin.json`.
+2. Codex reads `.agents/plugins/marketplace.json` and each plugin's `.codex-plugin/plugin.json`.
+3. Cursor reads `.cursor-plugin/marketplace.json` and each plugin's `.cursor-plugin/plugin.json`.
+4. Gemini CLI and other direct skill clients can skip plugin metadata and link or copy `skills/` directories directly.
 
-At runtime, when the user sends a message, Claude:
+After installation, the client walks the plugin's `skills/` directory looking for `SKILL.md` files, reads each skill's YAML frontmatter, and registers the skill name and description for routing.
+
+At runtime, when the user sends a message, the agent:
 
 1. Considers the user's message against the skill descriptions in the routing table.
 2. Selects one or more skills whose descriptions match.

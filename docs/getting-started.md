@@ -1,70 +1,140 @@
 # Getting started
 
-This guide walks you through installing the marketplace, verifying it works, and using your first skill.
+This guide walks through installing the Universal Design Principles skills in the major agent clients and verifying that the skills are visible.
 
 ## Prerequisites
 
-You need one of:
+You need at least one agent client:
 
-- **Claude Code** — the CLI tool. Install instructions: <https://docs.claude.com/en/docs/claude-code>.
-- **Cowork** (or another Claude desktop client that supports plugins).
-- **Claude Agent SDK** project — you can drop the `skills/` directories into `.claude/skills/` in any SDK project.
+- **Claude Code** for native `.claude-plugin` marketplace installs.
+- **Codex** for native `.agents/plugins` marketplace installs or direct `.agents/skills` installs.
+- **Cursor** for native Cursor plugins or `.cursor/rules` fallback guidance.
+- **Gemini CLI** for direct Agent Skills installs.
+- **Any AGENTS.md-compatible agent** for a lightweight fallback rule.
 
-You don't need anything else — no Node, no Python, no build step. The repository is pure markdown plus a few JSON manifests.
+There is no build step. This repository is Markdown skill content plus JSON manifests.
 
-## Install — three options
+## Clone once
 
-### Option 1: install the entire marketplace
-
-Best for: users who want all five plugins available, or who want to browse/install plugins from a UI.
-
-```bash
-# Pick a stable location — the marketplace folder will live here for as long as you use it
-mkdir -p ~/.claude/marketplaces
-
-# Clone the repository
-git clone https://github.com/hunterd107/design-principles.git \
-  ~/.claude/marketplaces/design-principles
-
-# In Claude (Code or Cowork), register the marketplace
-/plugins add ~/.claude/marketplaces/design-principles
-```
-
-After registering, the five plugins will be visible in `/plugins`. Install whichever you want.
-
-### Option 2: install a single plugin
-
-Best for: users who only want one or two of the plugins (smaller install, faster Claude startup).
+Most local install paths start with a checkout:
 
 ```bash
-# Clone the repo to wherever
-git clone https://github.com/hunterd107/design-principles.git ~/code/design-principles
-
-# Install the plugin into Claude's plugins directory via symlink
-ln -s ~/code/design-principles/perception-and-hierarchy-principles \
-  ~/.claude/plugins/perception-and-hierarchy-principles
+git clone https://github.com/HDeibler/universal-design-principles.git ~/code/universal-design-principles
 ```
 
-Restart Claude (or run `/plugins reload`) and the plugin's skills will be available.
+Use a stable path. Plugin and skill clients often cache or reference the path.
 
-### Option 3: drop the skills into a project
+## Claude Code
 
-Best for: users on the Claude Agent SDK or working in a single project who want the skills scoped to that project only.
+For GitHub-hosted installs, add the marketplace directly:
+
+```text
+/plugin marketplace add HDeibler/universal-design-principles
+/plugin install perception-and-hierarchy-principles@universal-design-principles
+```
+
+Repeat `/plugin install` for the plugins you want:
+
+- `perception-and-hierarchy-principles`
+- `cognition-and-learnability-principles`
+- `interaction-and-control-principles`
+- `aesthetics-and-emotion-principles`
+- `process-and-robustness-principles`
+
+For a local checkout:
+
+```text
+/plugin marketplace add ~/code/universal-design-principles
+```
+
+Then browse and install from `/plugin`.
+
+## Codex
+
+Add the repo as a plugin marketplace:
 
 ```bash
-cd path/to/your/project
-mkdir -p .claude/skills
-
-# Drop in the skills from any plugin
-cp -r ~/code/design-principles/perception-and-hierarchy-principles/skills/* \
-  .claude/skills/
+codex plugin marketplace add HDeibler/universal-design-principles
+codex
 ```
 
-The skills are now scoped to that project. Other Claude sessions won't see them.
+Inside Codex, open:
+
+```text
+/plugins
+```
+
+Choose `Universal Design Principles`, install the plugins you want, then start a new thread.
+
+For direct skill installs without plugin metadata:
+
+```bash
+mkdir -p ~/.agents/skills
+cp -R ~/code/universal-design-principles/plugins/*-principles/skills/* ~/.agents/skills/
+```
+
+Restart Codex after copying. You can also use a project-scoped `.agents/skills/` directory if a repository should carry the skills with it.
+
+## Cursor
+
+This repository includes Cursor marketplace and plugin manifests:
+
+- `.cursor-plugin/marketplace.json`
+- `plugins/<plugin>/.cursor-plugin/plugin.json`
+
+Install through Cursor's plugin flow from either the GitHub URL or your local checkout:
+
+```text
+https://github.com/HDeibler/universal-design-principles
+~/code/universal-design-principles
+```
+
+If you are not using Cursor plugins, add a project rule instead:
+
+```mdc
+---
+description: Use Universal Design Principles when working on UX, UI, product design, visual hierarchy, interaction design, accessibility, or design critique.
+alwaysApply: false
+---
+
+When the task involves UX or product design, consult the Universal Design Principles skill repository and prefer the most specific principle skill before giving recommendations.
+```
+
+Save that as `.cursor/rules/universal-design-principles.mdc`.
+
+## Gemini CLI
+
+Link each plugin's skill directory:
+
+```bash
+for plugin in ~/code/universal-design-principles/plugins/*-principles; do
+  gemini skills link "$plugin/skills" --scope user
+done
+
+gemini skills list
+```
+
+Use `--scope workspace` if you want the skills available only in the current project. Gemini also supports direct skill folders in `.gemini/skills/`, `.agents/skills/`, `~/.gemini/skills/`, or `~/.agents/skills/`.
+
+## AGENTS.md fallback
+
+For Copilot, Windsurf, and other rule-based agents, add a short instruction to the native rule file or `AGENTS.md`:
+
+```md
+# Design guidance
+
+When working on UX, UI, product design, visual hierarchy, interaction design,
+accessibility, or design critique, use the Universal Design Principles skills
+from https://github.com/HDeibler/universal-design-principles. Prefer the most specific principle
+skill for the task, and use the reference files only when the answer needs
+research depth.
+```
+
+For GitHub Copilot, this can live in `.github/copilot-instructions.md`, `.github/instructions/*.instructions.md`, or `AGENTS.md` depending on your editor surface. For Windsurf, use `.windsurf/rules/*.md` or `AGENTS.md`.
 
 ## Verify it works
 
-After installing, ask Claude something that should trigger one of the skills. For each plugin, here's a test prompt that reliably activates it:
+After installing, ask a prompt that should clearly match one plugin:
 
 | Plugin | Test prompt |
 |---|---|
@@ -74,78 +144,47 @@ After installing, ask Claude something that should trigger one of the skills. Fo
 | Aesthetics & Emotion | "How do I think about brand archetype for a B2B product?" |
 | Process & Robustness | "Walk me through doing an accessibility audit of a web app." |
 
-If the relevant plugin is installed, Claude's response should reference the principle by name (for example: "Using Hick's Law and progressive disclosure, …") and apply the principle in the actual recommendation.
-
-## Your first skill in action
-
-Try this end-to-end. Install the **Perception & Hierarchy** plugin, then in Claude:
-
-```
-You: I'm designing a dashboard with 8 metric cards. Each card has a title,
-     a primary number, a small trend indicator, and a chart. Right now they
-     all look identical. How do I introduce hierarchy?
-```
-
-Claude should reach into the `hierarchy` and `hierarchy-typographic` skills, applying the principle's vocabulary directly:
-
-> Reaching for the hierarchy principle: right now your cards have *no* hierarchy because every element is competing equally. The fastest fix is typographic — make the primary number much larger (24–32px), keep the title at 13–14px, and demote the trend indicator and chart caption to a muted color at 12px. That gives the user a clear reading order on each card: number → context → trend.
->
-> A second move is to identify which of the 8 cards is the primary metric and treat *that one* differently — wider, larger primary number, possibly a subtle accent color. The other 7 act as supporting metrics. This is hierarchy at the dashboard level, not just within each card …
-
-The skill is doing the heavy lifting. You didn't have to remember to mention hierarchy; the agent reached for it on its own.
+The response should name and apply a relevant principle, such as Hick's Law, progressive disclosure, hierarchy, Fitts's Law, or accessibility.
 
 ## Troubleshooting
 
-### Skills don't seem to fire
+### Skills do not appear
 
-- **Check the plugin is registered.** Run `/plugins list` and confirm the plugin appears as installed and enabled.
-- **Check the skill descriptions match your prompt.** Skills fire based on description matches; if your prompt is generic ("design something"), no specific skill will trigger. Be specific about what you're working on.
-- **Restart Claude.** Some clients only load skills at startup.
+- Restart the agent client. Several clients only scan plugin or skill folders at startup.
+- Confirm the manifest path exists for the client you are using.
+- For direct skill installs, confirm every skill lives at `<skills-dir>/<skill-name>/SKILL.md`.
+- Check that `SKILL.md` starts with valid YAML frontmatter containing `name:` and `description:`.
 
-### "Skill not found" errors
+### Skills do not trigger
 
-- **Check the path.** Skills must live at `<plugin>/skills/<skill-name>/SKILL.md` with valid YAML frontmatter.
-- **Check the frontmatter.** The `name` field in frontmatter must match the folder name exactly.
+- Make the prompt specific. "Improve this UI" is weaker than "Review the visual hierarchy and interaction affordances in this settings page."
+- Ask the agent what skills or plugins are available.
+- Invoke the skill explicitly if the client supports slash or `@` invocation.
 
-### Claude isn't using the principle vocabulary
+### Cursor or rule-based agents do not use the content
 
-- **Check the skill loaded.** Add `Read the SKILL.md file you're using and quote the first paragraph` to your prompt to verify the skill content actually loaded.
-- **Be more specific.** "Help me with this" won't trigger anything; "How do I structure visual hierarchy?" will.
-
-### Permission errors
-
-- On macOS, you may need to grant Claude file-system access if it's installing skills outside your home directory.
-- On Linux/Windows, ensure the user running Claude has read access to the plugins directory.
-
-### Stray files in the cloned repo
-
-The `.gitignore` ignores macOS `.DS_Store` files, but a fresh clone won't have any. If you see them after using the repository on macOS, that's normal — they're already excluded from version control.
-
-## Next steps
-
-- Read the **[Architecture overview](architecture.md)** to understand how plugins, skills, and references compose.
-- Read **[How skills trigger](how-skills-trigger.md)** to learn the routing mechanism in detail.
-- Browse the **[Principle Index](principle-index.md)** to see every principle with direct links into the relevant `SKILL.md`.
-- Browse a per-plugin README to see the principles in that plugin and the planned next builds.
+- Confirm the rule is active and not set to manual-only.
+- Keep fallback rules short; point at the skill repository instead of pasting hundreds of lines.
+- Use native plugins or direct Agent Skills when possible. Rules are useful fallback context, but they do not provide the same progressive disclosure as skills.
 
 ## Updating
 
-To pull in new principles or improvements:
+For local checkouts:
 
 ```bash
-cd ~/.claude/marketplaces/design-principles
-git pull origin main
+cd ~/code/universal-design-principles
+git pull --ff-only origin main
 ```
 
-If you installed by symlink, the change is picked up immediately. If you installed by copy, you'll need to re-copy. If you installed via the marketplace, run `/plugins update <plugin-name>` from your client.
+Then refresh or restart the client:
 
-## Uninstalling
+- Claude Code: `/reload-plugins` or restart.
+- Codex: restart Codex, or update the marketplace from the plugin directory.
+- Cursor: reload the window or update the plugin.
+- Gemini CLI: run `/skills reload` or restart.
 
-```bash
-# Remove a single plugin
-rm ~/.claude/plugins/perception-and-hierarchy-principles
+## Next steps
 
-# Or remove the whole marketplace
-rm -rf ~/.claude/marketplaces/design-principles
-/plugins remove design-principles
-```
+- Read the [Architecture overview](architecture.md) to understand how manifests, plugins, skills, and references compose.
+- Read [How skills trigger](how-skills-trigger.md) to learn the routing mechanism in detail.
+- Browse the [Principle Index](principle-index.md) to see every principle with direct links into the relevant `SKILL.md`.

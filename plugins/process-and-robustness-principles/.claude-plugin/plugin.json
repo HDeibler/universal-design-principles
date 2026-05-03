@@ -9,11 +9,11 @@
     "email": "hunterd107@gmail.com"
   },
   "license": "MIT",
-  "homepage": "https://github.com/hunterd107/design-principles",
+  "homepage": "https://github.com/HDeibler/universal-design-principles",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hunterd107/design-principles.git",
-    "directory": "process-and-robustness-principles"
+    "url": "https://github.com/HDeibler/universal-design-principles.git",
+    "directory": "plugins/process-and-robustness-principles"
   },
   "category": "design",
   "keywords": [
@@ -28,6 +28,6 @@
     "weakest-link",
     "ockhams-razor",
     "scaling",
-    "design-principles"
+    "universal-design-principles"
   ]
 }

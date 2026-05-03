@@ -1,0 +1,53 @@
+{
+  "name": "universal-design-principles",
+  "owner": {
+    "name": "Hunter D",
+    "email": "hunterd107@gmail.com"
+  },
+  "metadata": {
+    "description": "A working library of 42 framework-agnostic UX and product-design principles packaged as Agent Skills.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "perception-and-hierarchy-principles",
+      "source": "./plugins/perception-and-hierarchy-principles",
+      "description": "Visual perception, hierarchy, layout, and the structuring of attention.",
+      "version": "1.0.0",
+      "category": "design",
+      "tags": ["gestalt", "hierarchy", "typography", "layout", "color", "accessibility"]
+    },
+    {
+      "name": "cognition-and-learnability-principles",
+      "source": "./plugins/cognition-and-learnability-principles",
+      "description": "Mental models, complexity reduction, memory, and learnability.",
+      "version": "1.0.0",
+      "category": "design",
+      "tags": ["cognition", "mental-models", "memory", "learnability", "iconography", "consistency"]
+    },
+    {
+      "name": "interaction-and-control-principles",
+      "source": "./plugins/interaction-and-control-principles",
+      "description": "Affordance, feedback, errors, and user control.",
+      "version": "1.0.0",
+      "category": "design",
+      "tags": ["interaction", "affordance", "feedback", "errors", "controls", "fitts"]
+    },
+    {
+      "name": "aesthetics-and-emotion-principles",
+      "source": "./plugins/aesthetics-and-emotion-principles",
+      "description": "Beauty, perceived quality, brand personality, and emotional response.",
+      "version": "1.0.0",
+      "category": "design",
+      "tags": ["aesthetics", "emotion", "brand", "archetypes", "flow", "wabi-sabi"]
+    },
+    {
+      "name": "process-and-robustness-principles",
+      "source": "./plugins/process-and-robustness-principles",
+      "description": "Iteration, accessibility, reliability, and design process.",
+      "version": "1.0.0",
+      "category": "design",
+      "tags": ["accessibility", "wcag", "iteration", "prototyping", "robustness", "reliability"]
+    }
+  ]
+}
